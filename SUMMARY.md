@@ -7,7 +7,6 @@
 * [Settling in](getting-started/settling-in.md)
 * [On campus](getting-started/on-campus.md)
 * [Computer and workspace](getting-started/computer-and-workspace.md)
-* [Planning your time here](getting-started/planning-your-time-here.md)
 
 ## Group Policies
 

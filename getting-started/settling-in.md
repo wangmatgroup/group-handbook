@@ -37,17 +37,10 @@ Below we list a few useful resources to help you navigate and plan for your time
 * (G/PD) **Talk to Wennie about ordering a computer.** See the [Computer and workspace](computer-and-workspace.md) page for more info.
 * Read about the group's [expectations](../group-policies/group-expectations.md) and [policies](broken-reference)
 * Get a head start on recommendations from the [reading list](../research-resources/reading-list.md)
+* The group's home department is the Chemical Engineering Department, which has an extensive infrastructure of administrative support. You will want to know the staff who will be helping you throughout your journey here. Below listed are some of the relevant positions. For the most up-to-date contact info, see [staff listing](https://www.che.utexas.edu/people/staff)
+  * Undergraduate Academic Advisor,  Academic Advising Coordinator
+  * Graduate Advisor, Recruitment chair, Program Administrator
+  * IT manager
+  * Building Manager
+  * Human Resources
 
-## When you arrive
-
-We are physically located on the 4th floor at in the Chemical & Petroeum Engineering (CPE) building (200 E. Dean Keeton St).
-
-Once you arrive on campus:
-
-* ****[**Get you UT ID**](https://ut.service-now.com/sp?id=kb\_article\&number=KB0011332) ****&#x20;
-* **Get building access for CPE:** email the building manager Shallaco "Shak" (smcdonald@che.utexas.edu) your UT EID , cc Wennie; also ask for the paperwork for get a key to the group office space
-* **Get your computer set up with the ChE IT:** email Jason (jason@che.utexas.edu) or Randy (randy@che.utexas.edu), include your UT EI
-* **Make a spreadsheet of key deadlines, milestones, and courses (if applicable)**
-  * For undergraduates, \~1-2 years out, i.e., what do you want to get out of the research experience (e.g., publication, conference presentation, senior thesis)?
-  * For graduate students: 5-year plan including courses + key milestones/dates in your program
-  * For postdocs: what is your exit strategy for the next step in your career?
