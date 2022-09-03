@@ -29,7 +29,7 @@
 
 * [Fellowships and Scholarships](research-resources/fellowships-and-scholarships.md)
 * [Reading list](research-resources/reading-list.md)
-* [Habits of a good scientist](research-resources/habits-of-a-good-scientist.md)
+* [Advice on Work Habits](research-resources/advice-on-work-habits.md)
 * [Writing a manuscript](research-resources/writing-a-manuscript.md)
 * [Archiving & Backup](research-resources/archiving-and-backup.md)
 * [Forum Netiquette](research-resources/forum-netiquette.md)
