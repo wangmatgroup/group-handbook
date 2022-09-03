@@ -10,5 +10,6 @@ There are many mechanisms for keeping in communication with the group:
   * join the [group github](https://github.com/wangmatgroup) (wangmatgroup)- update your information on the group roster
   * join the group gitbook ([invitation](https://app.gitbook.com/invite/b8l2n16TggsNDQ1OMcuY/IQZIDIa0IBXNghdkofhT))
 * Set up a shared Box folder with Wennie. We will use Box for exchanging files
+* Get access to the [group wiki](https://wikis.utexas.edu/display/wangmaterialswiki/Wang+Materials+Group+Wiki+Home?src=spacemenu). Log in to [https://wikis.utexas.edu](https://wikis.utexas.edu) and send your UT EID to the group member in charge of the wiki.
 * Join the group google drive
 

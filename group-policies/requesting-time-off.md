@@ -6,10 +6,10 @@ coverY: 0
 
 # Requesting Time Off
 
-To request time off, just fill in our simple form and we'll get it approved!
+**Vacation policy**:&#x20;
 
-{% hint style="info" %}
-**Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
-{% endhint %}
+Please let Wennie know well in advance (at least a month) if you plan on taking time off. This is mostly to allow for enough communication and planning in the event there is a deadline or event that happens during the time you request off.&#x20;
 
-{% embed url="https://2w3pnm4iy73.typeform.com/to/P228Ngvj" %}
+We generally follow the vacation policy as the rest of the Chemical Engineering department as found in the [department handbook](https://wikis.utexas.edu/display/chemegrad/CHE+Graduate+Office+Home).&#x20;
+
+For exceptions or an alternate arrangement, please discuss with Wennie.
