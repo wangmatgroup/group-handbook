@@ -10,7 +10,7 @@
 
 ## Group Policies
 
-* [Group Expectations](group-policies/group-expectations/README.md)
+* [Group Expectations](group-policies/group-expectations.md)
   * [General compact between PI and group](group-policies/group-expectations/general-compact-between-pi-and-group.md)
 * [Group Policies](group-policies/group-policies.md)
 * [Communication channels](group-policies/communication-channels.md)
@@ -28,13 +28,13 @@
 
 ## Research Resources
 
-* [Fellowships and Scholarships](research-resources/fellowships-and-scholarships/README.md)
+* [Fellowships and Scholarships](research-resources/fellowships-and-scholarships.md)
   * [Requesting Recommendation Letters](research-resources/fellowships-and-scholarships/requesting-recommendation-letters.md)
 * [Reading list](research-resources/reading-list.md)
 * [Advice on Work Habits](research-resources/advice-on-work-habits.md)
 * [Writing a manuscript](research-resources/writing-a-manuscript.md)
 * [Archiving & Backup](research-resources/archiving-and-backup.md)
-* [Forum Netiquette](research-resources/forum-netiquette.md)
+* [Netiquette](research-resources/netiquette.md)
 * [Presentations and Posters](research-resources/presentations-and-posters.md)
 
 ## Educational Resources
