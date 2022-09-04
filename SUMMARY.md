@@ -34,7 +34,7 @@
 * [Advice on Work Habits](research-resources/advice-on-work-habits.md)
 * [Writing a manuscript](research-resources/writing-a-manuscript.md)
 * [Archiving & Backup](research-resources/archiving-and-backup.md)
-* [Netiquette](research-resources/netiquette.md)
+* [Netiquette](research-resources/forum-netiquette.md)
 * [Presentations and Posters](research-resources/presentations-and-posters.md)
 
 ## Educational Resources
