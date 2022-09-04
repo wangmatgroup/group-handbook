@@ -35,7 +35,7 @@ Below we list a few useful resources to help you navigate and plan for your time
   * see the [Communication channels](../group-policies/communication-channels.md) page for the full list of how we keep in communication
 * (UG/G) **Register for next semester's classes.** See more on the [Classes at UT](../educational-resources/classes-at-ut.md) page
 * (G/PD) **Talk to Wennie about ordering a computer.** See the [Computer and workspace](computer-and-workspace.md) page for more info.
-* Read about the group's [expectations](../group-policies/group-expectations.md) and [policies](broken-reference)
+* Read about the group's [expectations](../group-policies/group-expectations/) and [policies](broken-reference)
 * Get a head start on recommendations from the [reading list](../research-resources/reading-list.md)
 * The group's home department is the Chemical Engineering Department, which has an extensive infrastructure of administrative support. You will want to know the staff who will be helping you throughout your journey here. Below listed are some of the relevant positions. For the most up-to-date contact info, see [staff listing](https://www.che.utexas.edu/people/staff)
   * Undergraduate Academic Advisor,  Academic Advising Coordinator

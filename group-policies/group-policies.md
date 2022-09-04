@@ -2,7 +2,7 @@
 
 
 
-Read more [here](group-expectations.md) about general expectations that Wennie (the PI) has of you and what you can expect from Wennie (the PI).
+Read more [here](group-expectations/) about general expectations that Wennie (the PI) has of you and what you can expect from Wennie (the PI).
 
 * **Work hours:** I do not mandate "fixed" work hours. However I do expect you to be present in the office during at least half of the regular work day. Whether you choose to distribute that early in the day or later in the day is up to you. I do require you to be present at meetings (individual and group). Being present on campus is important because:
   * regular work hours are when your classmates/labmates, staff, and other faculty are present; this is a time for when you build connections with the group and the department
