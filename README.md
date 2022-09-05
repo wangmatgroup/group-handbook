@@ -9,11 +9,9 @@ Welcome to the group and to the group handbook for the [Wang Materials Group at 
 
 We are excited to have you join and look forward to doing research together!&#x20;
 
-This is a living document intended to outline group policies/expectations, how to's, and offer usseful advice for navigating your years in the group and in the university.
+This is a living document intended to outline group policies/expectations, how to's, and offer useful advice for navigating your years in the group and in the university.
 
-This document is a collaborative effort for everyone who is a part of the group. If you have anything to add, change, or edit, please do! Just be sure to date it and give yourself credit. We want to document as much useful information as possible, and keep it up to date.
-
-As there is quite a bit of information here, be sure to refer back frequently throughout your time here.&#x20;
+This document is a collaborative effort for everyone who is a part of the group. If you have something to add/change, take a look at [contributing to the wiki.](misc-resources/contributing-to-the-wiki.md)
 
 Gitbook url: [https://wang-materials-group.gitbook.io/group-handbook/](https://wang-materials-group.gitbook.io/group-handbook/)
 
