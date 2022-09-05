@@ -39,7 +39,9 @@
   * [Revising and submission](research-resources/writing-a-manuscript/revising-and-submission.md)
 * [Data archiving](research-resources/data-archiving.md)
 * [Netiquette](research-resources/forum-netiquette.md)
-* [Presentations and Posters](research-resources/presentations-and-posters.md)
+* [Presentations and Posters](research-resources/presentations-and-posters/README.md)
+  * [Making presentations/posters](research-resources/presentations-and-posters/making-presentations-posters.md)
+  * [Past posters](research-resources/presentations-and-posters/past-posters.md)
 
 ## Educational Resources
 
