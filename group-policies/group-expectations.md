@@ -4,7 +4,7 @@
 
 I have several expectations of incoming and continuing group members, which are intended to help you succeed during your time in the group.
 
-****[**General Expectations**](group-expectations/compact-between-pi-and-group.md)****
+****[**General Expectations**](group-expectations/general-compact-between-pi-and-group.md)****
 
 **For everyone**
 

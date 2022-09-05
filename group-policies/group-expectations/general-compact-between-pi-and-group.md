@@ -1,4 +1,4 @@
-# General compact between PI and group
+# Compact between PI and group
 
 These are general expectations and commitments for a postdoc or research fellow.
 
