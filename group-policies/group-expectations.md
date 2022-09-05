@@ -4,9 +4,7 @@
 
 I have several expectations of incoming and continuing group members, which are intended to help you succeed during your time in the group.
 
-**General Expectations**
-
-****
+See also <mark style="color:red;">general expectations</mark> of postdocs, graduate students, undergraduate students for your time here and what you can expect from the PI.
 
 **For everyone**
 
