@@ -17,7 +17,7 @@ Particularly useful resources are marked with a \*\*.
   * Review of Modern Physics
   * Chemical Reviews
   * Accounts of Chemical Research
-* Seminal Papers in the field. See [Reading List ](../research-resources/reading-list.md)for a few.
+* Seminal Papers in the field. See [Reading List ](../research-resources/reading-list/)for a few.
 * Fun way of finding related papers: [https://www.connectedpapers.com/](https://www.connectedpapers.com/)
 
 ### Reference management <a href="#c-researchresources-literaturesearchandreferencemanagement" id="c-researchresources-literaturesearchandreferencemanagement"></a>

@@ -24,8 +24,8 @@
 
 * [Advice on Work Habits](research-resources/advice-on-work-habits.md)
 * [Group Tutorials](research-resources/group-tutorials.md)
-* [Reading list](research-resources/reading-list.md)
-* [Group Library](research-resources/group-library.md)
+* [Reading list](research-resources/reading-list/README.md)
+  * [Group Library](research-resources/reading-list/group-library.md)
 * [Fellowships and Scholarships](research-resources/fellowships-and-scholarships.md)
   * [Requesting Recommendation Letters](research-resources/fellowships-and-scholarships/requesting-recommendation-letters.md)
 * [Writing a manuscript](research-resources/writing-a-manuscript.md)
