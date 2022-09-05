@@ -22,7 +22,7 @@ There are several resources for mentorship that you can turn to (a non-exhaustiv
 
 Not all relationships have explicit mentorship built into them and some are more indirect (like with superstar scientists). Like all relationships, mentoring relationships take time and effort to cultivate. And of course, you will invariably become a mentor yourself to others!
 
-**Q: How can I find a mentor?**
+**Q: How can I find a mentor? What should I look for in a mentor?**
 
 There are a plethora of online resources for how to find a mentor. Some ones that may be useful:
 
