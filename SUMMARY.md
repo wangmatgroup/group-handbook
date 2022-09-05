@@ -28,6 +28,7 @@
 
 ## Research Resources
 
+* [Group Tutorials](research-resources/group-tutorials.md)
 * [Fellowships and Scholarships](research-resources/fellowships-and-scholarships.md)
   * [Requesting Recommendation Letters](research-resources/fellowships-and-scholarships/requesting-recommendation-letters.md)
 * [Reading list](research-resources/reading-list.md)
@@ -39,7 +40,7 @@
   * [Revising and submission](research-resources/writing-a-manuscript/revising-and-submission.md)
 * [Data archiving](research-resources/data-archiving.md)
 * [Netiquette](research-resources/forum-netiquette.md)
-* [Presentations and Posters](research-resources/presentations-and-posters/README.md)
+* [Presentations and Posters](research-resources/presentations-and-posters.md)
   * [Making presentations/posters](research-resources/presentations-and-posters/making-presentations-posters.md)
   * [Past posters](research-resources/presentations-and-posters/past-posters.md)
 
