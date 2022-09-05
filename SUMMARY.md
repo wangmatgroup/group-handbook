@@ -28,6 +28,7 @@
   * [Group Library](research-resources/reading-list/group-library.md)
 * [Fellowships and Scholarships](research-resources/fellowships-and-scholarships.md)
   * [Requesting Recommendation Letters](research-resources/fellowships-and-scholarships/requesting-recommendation-letters.md)
+  * [Graduate Fellowships/awards](research-resources/fellowships-and-scholarships/graduate-fellowships-awards.md)
 * [Writing a manuscript](research-resources/writing-a-manuscript.md)
   * [Before you write](research-resources/writing-a-manuscript/before-you-write.md)
   * [As you write](research-resources/writing-a-manuscript/as-you-write.md)
