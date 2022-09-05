@@ -17,22 +17,17 @@
 * [Meeting policies](group-policies/meeting-policies.md)
 * [Requesting Time Off](group-policies/requesting-time-off.md)
 * [Filing Expenses](group-policies/filing-expenses.md)
-* [Conferences](group-policies/conferences/README.md)
-  * [Travel & Attendance](group-policies/conferences/travel-and-attendance.md)
-  * [Past conferences](group-policies/conferences/past-conferences.md)
 * [Group Meetings](group-policies/group-meetings.md)
-* [Seminars](group-policies/seminars.md)
-* [Inventory & Equipment](group-policies/inventory-and-equipment.md)
-* [Group Library](group-policies/group-library.md)
 * [People](group-policies/people.md)
 
 ## Research Resources
 
+* [Advice on Work Habits](research-resources/advice-on-work-habits.md)
 * [Group Tutorials](research-resources/group-tutorials.md)
+* [Reading list](research-resources/reading-list.md)
+* [Group Library](research-resources/group-library.md)
 * [Fellowships and Scholarships](research-resources/fellowships-and-scholarships.md)
   * [Requesting Recommendation Letters](research-resources/fellowships-and-scholarships/requesting-recommendation-letters.md)
-* [Reading list](research-resources/reading-list.md)
-* [Advice on Work Habits](research-resources/advice-on-work-habits.md)
 * [Writing a manuscript](research-resources/writing-a-manuscript.md)
   * [Before you write](research-resources/writing-a-manuscript/before-you-write.md)
   * [As you write](research-resources/writing-a-manuscript/as-you-write.md)
@@ -43,6 +38,10 @@
 * [Presentations and Posters](research-resources/presentations-and-posters.md)
   * [Making presentations/posters](research-resources/presentations-and-posters/making-presentations-posters.md)
   * [Past posters](research-resources/presentations-and-posters/past-posters.md)
+* [Conferences](research-resources/conferences/README.md)
+  * [Travel & Attendance](research-resources/conferences/travel-and-attendance.md)
+  * [Past conferences](research-resources/conferences/past-conferences.md)
+* [Seminars](research-resources/seminars.md)
 
 ## Educational Resources
 
@@ -55,6 +54,7 @@
 * [Doing Computational Research](hpc-resources/doing-computational-research.md)
 * [Software Resources](hpc-resources/software-resources.md)
 * [TACC resources](hpc-resources/tacc-resources.md)
+* [Inventory & Equipment](hpc-resources/inventory-and-equipment.md)
 
 ## Misc Resources
 

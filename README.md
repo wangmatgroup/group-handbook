@@ -14,3 +14,9 @@ This is a living document intended to outline group policies/expectations, how t
 This document is a collaborative effort for everyone who is a part of the group. If you have anything to add, change, or edit, please do! Just be sure to date it and give yourself credit. We want to document as much useful information as possible, and keep it up to date.
 
 As there is quite a bit of information here, be sure to refer back frequently throughout your time here.&#x20;
+
+
+
+{% hint style="info" %}
+Several pages are under construction so they may be blank or incomplete!
+{% endhint %}
