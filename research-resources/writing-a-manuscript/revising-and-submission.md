@@ -1,7 +1,5 @@
 # Revising and submission
 
-
-
 ## Revising your writing
 
 **Revisions with yourself and others**
