@@ -11,7 +11,7 @@
 ## Group Policies
 
 * [Group Expectations](group-policies/group-expectations.md)
-  * [General compact between PI and group](group-policies/group-expectations/general-compact-between-pi-and-group.md)
+  * [Compact between PI and group](group-policies/group-expectations/compact-between-pi-and-group.md)
 * [Group Policies](group-policies/group-policies.md)
 * [Communication channels](group-policies/communication-channels.md)
 * [Meeting policies](group-policies/meeting-policies.md)
