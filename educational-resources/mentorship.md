@@ -9,7 +9,7 @@ Mentors can help you:
 * provide encouragement and advice
 * provide a support network and sense of community
 
-There are several resources for mentorship that you can turn to:
+There are several resources for mentorship that you can turn to (a non-exhaustive list):
 
 * your PI
 * senior members in the group
