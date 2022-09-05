@@ -12,27 +12,30 @@ If you have not been reached out to by either a group member or Wennie about two
 
 Below we list a few useful resources to help you navigate and plan for your time here:
 
-* **Moving to Austin**
-  * short term accommodation: Airbnb and extended stay hotels&#x20;
-  * general resources: [Zillow](https://www.zillow.com/homes/austin\_rb/),[ apartments.com](https://www.apartments.com/), [Redfin](https://www.redfin.com) (while national platforms, many local rental postings go through these websites)
-  * some other resources:
-    * government programs/resources: [https://www.austintexas.gov/department/housing](https://www.austintexas.gov/department/housing)
-    * online forum related to relocation, moving and general local discussions: [https://www.city-data.com/forum/austin/](https://www.city-data.com/forum/austin/)
-    * [https://www.umovefree.com/](https://www.umovefree.com/): free service with more real-estate-agent feel
-    * [https://www.freeapartmenthunters.com/austin.html](https://www.freeapartmenthunters.com/austin.html): help with finding apartments, free service apparently
-  * Grocery stores to look out for: HEB, 99 Ranch, MT Supermarket, Trader Joe's, Whole Foods
-  * Cost of living calculators: [https://www.nerdwallet.com/cost-of-living-calculator](https://www.nerdwallet.com/cost-of-living-calculator), [https://www.bestplaces.net/cost-of-living/](https://www.bestplaces.net/cost-of-living/)
-  * Transportation options:
-    * UT Night rides: [https://parking.utexas.edu/ut-night-rides](https://parking.utexas.edu/ut-night-rides)
-    * UT Shuttles: [https://parking.utexas.edu/transportation/shuttles](https://parking.utexas.edu/transportation/shuttles)
-    * UT Parking: [https://parking.utexas.edu/](https://parking.utexas.edu/)
-    * Zipcar: [https://www.zipcar.com/](https://www.zipcar.com/)
-    * MetroRideShare: [https://www.capmetro.org/ourservices/rideshare](https://www.capmetro.org/ourservices/rideshare)
-    * Buy a bike (and helmet): [https://www.rei.com/learn/expert-advice/bicycle.html](https://www.rei.com/learn/expert-advice/bicycle.html) (e.g., WW uses a fixie for in-city biking- low maintenance)
-* **Sign up for accounts**
-  * get a UT EID; this is used for all university-related logins and authentications: [https://idmanager.its.utexas.edu/eid\_self\_help/?createEID](https://idmanager.its.utexas.edu/eid\_self\_help/?createEID)
-  * download Duo for two-factor authentication: [https://duo.com/](https://duo.com/)
-  * see the [Communication channels](../group-policies/communication-channels.md) page for the full list of how we keep in communication
+### **Moving to Austin**
+
+* short term accommodation: Airbnb and extended stay hotels&#x20;
+* general resources: [Zillow](https://www.zillow.com/homes/austin\_rb/),[ apartments.com](https://www.apartments.com/), [Redfin](https://www.redfin.com) (while national platforms, many local rental postings go through these websites)
+* some other resources:
+  * government programs/resources: [https://www.austintexas.gov/department/housing](https://www.austintexas.gov/department/housing)
+  * online forum related to relocation, moving and general local discussions: [https://www.city-data.com/forum/austin/](https://www.city-data.com/forum/austin/)
+  * [https://www.umovefree.com/](https://www.umovefree.com/): free service with more real-estate-agent feel
+  * [https://www.freeapartmenthunters.com/austin.html](https://www.freeapartmenthunters.com/austin.html): help with finding apartments, free service apparently
+* Grocery stores to look out for: HEB, 99 Ranch, MT Supermarket, Trader Joe's, Whole Foods
+* Cost of living calculators: [https://www.nerdwallet.com/cost-of-living-calculator](https://www.nerdwallet.com/cost-of-living-calculator), [https://www.bestplaces.net/cost-of-living/](https://www.bestplaces.net/cost-of-living/)
+* Transportation options:
+  * UT Night rides: [https://parking.utexas.edu/ut-night-rides](https://parking.utexas.edu/ut-night-rides)
+  * UT Shuttles: [https://parking.utexas.edu/transportation/shuttles](https://parking.utexas.edu/transportation/shuttles)
+  * UT Parking: [https://parking.utexas.edu/](https://parking.utexas.edu/)
+  * Zipcar: [https://www.zipcar.com/](https://www.zipcar.com/)
+  * MetroRideShare: [https://www.capmetro.org/ourservices/rideshare](https://www.capmetro.org/ourservices/rideshare)
+  * Buy a bike (and helmet): [https://www.rei.com/learn/expert-advice/bicycle.html](https://www.rei.com/learn/expert-advice/bicycle.html) (e.g., WW uses a fixie for in-city biking- low maintenance)
+
+### **Sign up for accounts**
+
+* get a UT EID; this is used for all university-related logins and authentications: [https://idmanager.its.utexas.edu/eid\_self\_help/?createEID](https://idmanager.its.utexas.edu/eid\_self\_help/?createEID)
+* download Duo for two-factor authentication: [https://duo.com/](https://duo.com/)
+* see the [Communication channels](../group-policies/communication-channels.md) page for the full list of how we keep in communication
 * (UG/G) **Register for next semester's classes.** See more on the [Classes at UT](../educational-resources/classes-at-ut.md) page
 * (G/PD) **Talk to Wennie about ordering a computer.** See the [Computer and workspace](computer-and-workspace.md) page for more info.
 * Read about the group's [expectations](../group-policies/group-expectations.md) and [policies](broken-reference)
