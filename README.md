@@ -5,7 +5,7 @@ coverY: 135.97966963151208
 
 # Welcome!
 
-Welcome to the group and to the group handbook!&#x20;
+Welcome to the group and to the group handbook for the [Wang Materials Group at UT Austin](https://wangmaterialsgroup.com/)!&#x20;
 
 We are excited to have you join and look forward to doing research together!&#x20;
 
