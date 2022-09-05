@@ -14,7 +14,9 @@ There are several resources for mentorship that you can turn to:
 * your PI
 * senior members in the group
 * your peers in the group and classmates
-* collaborators
+* collaborators, including students, postdocs, and PIs
+* your dissertation committee
+* your course instructors
 * people you meet through seminars, conferences
 * experiences of superstar scientists&#x20;
 
