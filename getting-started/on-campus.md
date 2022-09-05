@@ -34,7 +34,7 @@ See the [main website](https://protect.utexas.edu/) for updates for Travis Count
 
 ## **Lunch and Refreshments**
 
-Join everyone for lunch! There are nice picnic seating areas in front and in between CPE and MechE buildings.&#x20;
+Join everyone for lunch! This usually happens between 11:30 am and 12:30 pm. There are nice picnic seating areas in front and in between CPE and MechE buildings.&#x20;
 
 Places to buy food:
 
