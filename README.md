@@ -15,7 +15,7 @@ This document is a collaborative effort for everyone who is a part of the group.
 
 As there is quite a bit of information here, be sure to refer back frequently throughout your time here.&#x20;
 
-
+Gitbook url: [https://wang-materials-group.gitbook.io/group-handbook/](https://wang-materials-group.gitbook.io/group-handbook/)
 
 {% hint style="info" %}
 Several pages are under construction so they may be blank or incomplete!
