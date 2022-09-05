@@ -29,6 +29,8 @@
 * [Fellowships and Scholarships](research-resources/fellowships-and-scholarships.md)
   * [Requesting Recommendation Letters](research-resources/fellowships-and-scholarships/requesting-recommendation-letters.md)
   * [Graduate Fellowships/awards](research-resources/fellowships-and-scholarships/graduate-fellowships-awards.md)
+  * [Postdoctoral Fellowships](research-resources/fellowships-and-scholarships/postdoctoral-fellowships.md)
+  * [Undergraduate Fellowships](research-resources/fellowships-and-scholarships/undergraduate-fellowships.md)
 * [Writing a manuscript](research-resources/writing-a-manuscript.md)
   * [Before you write](research-resources/writing-a-manuscript/before-you-write.md)
   * [As you write](research-resources/writing-a-manuscript/as-you-write.md)
