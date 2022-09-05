@@ -16,9 +16,9 @@
 
 ### Where to look <a href="#careerexploration-wheretolook" id="careerexploration-wheretolook"></a>
 
-* Professional society boards: MRS, APS, ACS, AICHE, IEEE, TMS
+* Professional society boards
 * word-of-mouth
-* Psi K: [https://psi-k.net/jobs/](https://psi-k.net/jobs/)
+* Psi K
 
 ### What can I do with a PhD? <a href="#careerexploration-whatcanidowithaphd" id="careerexploration-whatcanidowithaphd"></a>
 
