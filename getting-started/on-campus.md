@@ -22,6 +22,8 @@ Once you arrive on campus:
   * websites for seminar announcements
     * [Oden Institute](https://www.oden.utexas.edu/news-and-events/events/)
     * [Texas Materials Institute](https://tmi.utexas.edu/news-events/seminars/range.listevents/-)
+* **See also the resources/handbook from the university for postdocs and graduate students:** [https://gradschool.utexas.edu/services-and-resources/postdoctoral](https://gradschool.utexas.edu/services-and-resources/postdoctoral)&#x20;
+  * covers topics like university-wide resources, career development, health insurance
 
 ## **COVID policies**
 
@@ -34,7 +36,7 @@ See the [main website](https://protect.utexas.edu/) for updates for Travis Count
 
 ## **Lunch and Refreshments**
 
-Join everyone for lunch! There are nice picnic seating areas in front and in between CPE and MechE buildings.&#x20;
+Join everyone for lunch! This usually happens between 11:30 am and 12:30 pm. There are nice picnic seating areas in front and in between CPE and MechE buildings.&#x20;
 
 Places to buy food:
 
