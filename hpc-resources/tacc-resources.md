@@ -4,9 +4,9 @@ A major computing resource is the [Texas Advanced Computing Center (TACC)](https
 
 There is extensive helpful documentation from TACC on each supercomputing machine:
 
-* Stampeded documentation
+* [Stampede documentation](https://portal.tacc.utexas.edu/user-guides/stampede2)
 * [Lonestar documentation](https://portal.tacc.utexas.edu/user-guides/lonestar6)
-* Ranch documentation
+* [Ranch documentation](https://portal.tacc.utexas.edu/user-guides/ranch)
 * [Quantum ESPRESSO at TACC](https://portal.tacc.utexas.edu/software/qe)
 * [VASP at TACC](https://portal.tacc.utexas.edu/software/vasp)&#x20;
 
@@ -15,7 +15,7 @@ To get access to the computing allocations:
 * open a TACC and ACCESS account
 * update the group roster with your TACC And ACCESS username
 * email allocations manager/PI with your username
-* get familiar with supercomputer policies and documentation
+* once you have access, get familiar with supercomputer policies and documentation
 
 {% hint style="info" %}
 Before running any major calculations, be sure to let the PI know first! This is so we can make sure everyone in the group has access to sufficient computing resources.
