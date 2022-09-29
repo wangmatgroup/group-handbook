@@ -10,7 +10,15 @@
 
 #### Procedure for preparing for meetings with PI:
 
-We will have regular meetings, usually on the order of once per week. You are expected to come prepared with 1) what you worked on the previous week, 2) what if any
+We will have regular meetings, usually on the order of once per week. You are expected to come prepared with&#x20;
+
+1\) any follow ups from previous discussions
+
+2\) what you worked on the previous week and new or updated data/analysis
+
+3\) questions/topics to discuss with PI or group
+
+4\) what next steps you will take
 
 {% hint style="info" %}
 A lab notebook is highly recommended. Having a permanent location where you jot ideas, work through concepts, or keep track of data is invaluable in your research. Documentation is a critical skill in scientific research and the more you write down and organize the better. Develop a system that works for you.
