@@ -13,7 +13,7 @@ Particularly useful resources are marked with a \*\*.
 * [The library](https://www.lib.utexas.edu/): sometimes (old) textbooks are the way to go!
 * [Google scholar](https://scholar.google.com/): the power of Google search but for journal articles, patents, and reviews
 * [RSS feeds](https://rss.com/blog/how-do-rss-feeds-work/): get notified about the latest publications via email; most journals have an RSS feed as does Google Scholar
-* \*\*Starting off with a review. Reviews are typically more pedagogical and helps you get the bigger picture understanding. Some common reviews in our field:
+* \*\*Starting off with a review. Reviews are typically more pedagogical and can help you get the bigger picture understanding. Some common revew journals in our field:
   * Review of Modern Physics
   * Chemical Reviews
   * Accounts of Chemical Research
@@ -22,7 +22,7 @@ Particularly useful resources are marked with a \*\*.
 
 ### Reference management <a href="#c-researchresources-literaturesearchandreferencemanagement" id="c-researchresources-literaturesearchandreferencemanagement"></a>
 
-* [Zotero](https://www.zotero.org/): collect, organize, annotate, cite, and share research. Wennie also uses add-ons like [Zotfile](http://zotfile.com/) for pdf managment and [Better BibTeX](https://retorque.re/zotero-better-bibtex/) for better integration with LaTeX. Zotero also comes with a browser plug-in for directly importing a reference from the browser to your library!
+* [Zotero](https://www.zotero.org/): collect, organize, annotate, cite, and share research. Wennie recommends add-ons like [Zotfile](http://zotfile.com/) for pdf managment and [Better BibTeX](https://retorque.re/zotero-better-bibtex/) for better integration with LaTeX. Zotero also comes with a browser plug-in for directly importing a reference from the browser to your library!
 * [Mendeley](https://www.mendeley.com/) (not open-source but free to use)
 * [EndNote](https://endnote.com/) (commercial): licenses sold at discount price for [UT Austin affiliates](https://guides.lib.utexas.edu/medicine/EndNote)
 
