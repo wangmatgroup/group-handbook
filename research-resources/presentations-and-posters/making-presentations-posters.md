@@ -3,7 +3,7 @@
 See also Group Tutorials
 
 * **Tell a story:** What was the motivation/problem/challenge? What did you do? Why did you do it? What did you find? What is the major insight that you want people to get out of your presentation? What are you going to do next?&#x20;
-* **If you don’t talk about it, don’t put it in:** presentation clutter is distracting and no on in the audience will have enough time to digest what is there.
+* **If you don’t talk about it, don’t put it in:** presentation clutter is distracting and no one in the audience will have enough time to digest what is there. Everything on the slide must be put there with some intention in mind.
 * **If it is included, describe it:** conversely, if you include a graphic, be sure to describe it (e.g., “This is a plot of x versus y. We computed these many samples representing these conditions. One can see as x does this, y does this from which we can conclude this”). This seems rather obvious, but you would be surprised how many times this does not happen.
 * **Everything needs to be bigger:** the font, the images, the axes labels, the plots. The person with poor eyesight in the back needs to be able to see your presentation
 * **No blocks of text:** no one is going to want to spend the time or mental capacity to read blocks of text _and_ listen to you talk. Use bullet points and short sentences, use an image or a schematic.
