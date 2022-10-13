@@ -13,6 +13,7 @@ Once you arrive on campus:
   * For undergraduates, \~1-2 years out, i.e., what do you want to get out of the research experience (e.g., publication, conference presentation, senior thesis)?
   * For graduate students: 5-year plan including courses + key milestones/dates in your program
   * For postdocs: what is your exit strategy for the next step in your career?
+* **Get access to the group Box folder- email Wennie.**
 * **Add yourself to the** [**group roster**](https://docs.google.com/spreadsheets/d/16BUf3LbCsLSYEkHavr7eaon7rqqVybe25o\_gSWobH-Y/edit?usp=sharing)**.**
 * **Email the group to say hi and introduce yourself**
 * **Join mailing lists for seminars**
@@ -24,6 +25,7 @@ Once you arrive on campus:
     * [Texas Materials Institute](https://tmi.utexas.edu/news-events/seminars/range.listevents/-)
 * **See also the resources/handbook from the university for postdocs and graduate students:** [https://gradschool.utexas.edu/services-and-resources/postdoctoral](https://gradschool.utexas.edu/services-and-resources/postdoctoral)&#x20;
   * covers topics like university-wide resources, career development, health insurance
+* **Get access to group computing allocation. See** [**TACC Resources**](../hpc-resources/tacc-resources.md)****
 
 ## **COVID policies**
 
