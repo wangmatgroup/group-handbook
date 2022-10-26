@@ -12,6 +12,7 @@ Mentors can help you:
 There are several resources for mentorship that you can turn to (a non-exhaustive list):
 
 * your PI
+* your friends and family
 * senior members in the group
 * your peers in the group and classmates
 * collaborators, including students, postdocs, and PIs
