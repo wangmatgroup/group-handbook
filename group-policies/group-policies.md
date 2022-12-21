@@ -2,9 +2,9 @@
 
 
 
-Read more [here](group-expectations.md) about general expectations that Wennie (the PI) has of you and what you can expect from Wennie (the PI).
+Read more [here](group-expectations.md) about general expectations that Wennie (the PI) has of you and what you can expect from Wennie.
 
-* **Work hours:** I do not mandate "fixed" work hours. However I do expect you to be present in the office during at least half of the regular work day. Whether you choose to distribute that early in the day or later in the day is up to you. I do require you to be present at meetings (individual and group). Being present on campus is important because:
+* **Work hours:** Wennie does not mandate "fixed" work hours. However you are expected to be present in the  office during at least half of the regular work day. Whether you choose to distribute that early in the day or later in the day is up to you. You are required to be present at meetings (individual and group). Being present on campus is important because:
   * regular work hours are when your classmates/labmates, staff, and other faculty are present; this is a time for when you build connections with the group and the department
   * Things tends to be more complicated than you originally imagine, and consequently they often can take more time than you think to finish well. Research does not happen in spurts but rather from regular and consistent work habits.&#x20;
 * **Meetings:** We will generally do 1-on-1 meetings or small group meetings if applicable. At the beginning of a project, we may meet frequently and regularly (i.e., at fixed times) to brainstorm, to work out initial technical details, etc. Sometimes meetings will be short where there is not much to update (e.g., you have heavy calculations that take awhile to run). Other times, meetings can run longer, especially as results start to come in and we start interpreting and discussing results. Later, as the project gets running, we will have less fixed meetings.

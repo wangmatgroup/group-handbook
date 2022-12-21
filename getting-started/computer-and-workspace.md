@@ -24,7 +24,7 @@ Discuss with Wennie about getting a machine for your computing/research needs.
 
 ## Personalizing your workspace
 
-Feel free to add things to your workspace to make it more comfortable or useful
+Feel free to add things to your workspace to make it more comfortable or useful.
 
 ## Ergonomics
 

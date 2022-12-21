@@ -2,7 +2,7 @@
 
 ## When you arrive
 
-We are physically located on the 4th floor at in the Chemical & Petroeum Engineering (CPE) building (200 E. Dean Keeton St).
+We are physically located on the 4th floor at in the Chemical & Petroleum Engineering (CPE) building (200 E. Dean Keeton St).
 
 Once you arrive on campus:
 
