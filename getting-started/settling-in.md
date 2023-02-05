@@ -47,4 +47,8 @@ Below we list a few useful resources to help you navigate and plan for your time
   * IT manager
   * Building Manager
   * Human Resources
+* Become familiar with the department's [intranet](https://intranet.che.utexas.edu/), which contains forms and information on e.g.,&#x20;
+  * printing, including for posters
+  * room reservations
+  * reimbursement links
 
