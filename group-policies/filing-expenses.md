@@ -12,7 +12,7 @@ Send Wennie an email with a description of the item, what you would like to use 
 
 #### **Q: I need to be reimbursed (e.g., for conference travel). How do I do this?**
 
-Email Wennie for an account number. Find the EID ([https://directory.utexas.edu/](https://directory.utexas.edu/)) of the corresponding person in ChE in charge of payments, travel & entertainment reimbursement ([https://www.che.utexas.edu/people/staff](https://www.che.utexas.edu/people/staff)).
+Email Wennie for an account number (do this for each expense as different expenses may get charged to different accounts). Find the EID ([https://directory.utexas.edu/](https://directory.utexas.edu/)) of the corresponding person in ChE in charge of payments, travel & entertainment reimbursement ([https://www.che.utexas.edu/people/staff](https://www.che.utexas.edu/people/staff)).
 
 Visit either the department's intranet ([https://intranet.che.utexas.edu/](https://intranet.che.utexas.edu/)), which will take you to the  administrative applications webpage on UT Direct ([https://utdirect.utexas.edu/apps/services/requests/](https://utdirect.utexas.edu/apps/services/requests/)).
 
