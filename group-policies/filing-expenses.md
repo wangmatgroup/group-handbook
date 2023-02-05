@@ -12,8 +12,10 @@ Send Wennie an email with a description of the item, what you would like to use 
 
 #### **Q: I need to be reimbursed (e.g., for conference travel). How do I do this?**
 
-Visit either the department's intranet ([https://intranet.che.utexas.edu/](https://intranet.che.utexas.edu/)) or administrative applications webpage on UT Direct ([https://utdirect.utexas.edu/apps/services/requests/](https://utdirect.utexas.edu/apps/services/requests/)).
+Email Wennie for an account number. Find the EID ([https://directory.utexas.edu/](https://directory.utexas.edu/)) of the corresponding person in ChE in charge of payments, travel & entertainment reimbursement ([https://www.che.utexas.edu/people/staff](https://www.che.utexas.edu/people/staff)).
 
-For travel, be sure to \*first\* apply for travel authorization request before your trip and a travel reimbursement request after your trip. Keep all (itemized) receipts.&#x20;
+Visit either the department's intranet ([https://intranet.che.utexas.edu/](https://intranet.che.utexas.edu/)), which will take you to the  administrative applications webpage on UT Direct ([https://utdirect.utexas.edu/apps/services/requests/](https://utdirect.utexas.edu/apps/services/requests/)).
+
+For travel, be sure to \*first\* apply for a travel authorization request \*before\* your trip and a travel reimbursement request after your trip. Keep all (itemized) receipts.&#x20;
 
 ****
