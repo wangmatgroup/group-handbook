@@ -4,7 +4,7 @@
 
 I have several expectations of incoming and continuing group members, which are intended to help you succeed during your time in the group.
 
-****[**General Expectations**](group-expectations/general-compact-between-pi-and-group.md)****
+[**General Expectations**](group-expectations/general-compact-between-pi-and-group.md)
 
 **For everyone**
 
@@ -12,8 +12,10 @@ I have several expectations of incoming and continuing group members, which are 
 * **Be courteous of those around you**: Our aim is to do good science and also be good people. This includes all oral and written communication to those within or outside the group.
 * **Take charge of your project**: You are expected to be proactive and responsible for any project(s) you are involved. Depending on if you are the main or contributing person to the project, this will look different. Nevertheless, your project(s) are your responsibility.
 * **Be proactive in applying for external (funding) opportunities:** Including travel grants, fellowships, scholarships. Prepare yourself by knowing when the deadlines are and what the application requirements are. See [here](../research-resources/fellowships-and-scholarships.md) for more information.
+  * **Ask for feedback**: from your peers and mentors.&#x20;
+  * For items that will be public (e.g., presented, published), you must first communicate with Wennie well in advance of any deadlines.&#x20;
 * **Be proactive in your career development**: Whether this be preparing for a job interview, participating in seminars, [applying for external funding](../research-resources/fellowships-and-scholarships.md), [going to conferences](../research-resources/conferences/)
-* **Be aware of and meet deadlines:** This includes external deadlines on applications and grants and internal deadlines set by the PI. If you find you cannot meet the deadline, you must communicate this to all parties involved in a timely manner.
+* **Be aware of, communicate, and meet deadlines:** This includes external deadlines on applications and grants and internal deadlines set by the PI. Deadlines and changes involving others must be communicated in a timely manner (i.e., repeatedly and well before the deadline itself).
 * **Be present in the group and university**: I expect everyone to be present and active in group- and research-related activities. I do not require fixed work hours or work locations, but I do expect _every group member to make an effort and be present in the office during regular work hours for at least half of the day_. This is the time to make connections with people, to have (impromptu) discussions, and to have meetings.
 * **Be punctual**: Punctual means the meeting starts on time. This may mean you need to arrive 5-10 minutes earlier to set up and hash out any technical difficulties. In this era of zoom and video calling, this is especially important.
 * **Maintain your workspace and documentation:** Being organized is a useful skill in research as you will be handling many deadlines and files. It pays to document your progress early and frequently. This includes, but is not limited to:\
