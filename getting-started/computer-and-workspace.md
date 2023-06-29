@@ -20,7 +20,7 @@ A typical computer:&#x20;
 
 A big component of our research is interacting with the supercomputers through the terminal. It is highly recommended to use an OS with a bash-like environment (e.g., Linux or Mac). There are some workarounds for Windows, but these are usually not very robust for the type of work we do. Wennie uses the [Ubuntu](https://ubuntu.com/download) flavor of Linux distros (starting in grad school!)- Ubuntu is quite mature and has ample online documentation.&#x20;
 
-Discuss with Wennie about getting a machine for your computing/research needs.
+Ask around the office or discuss with Wennie about getting a machine for your computing/research needs.
 
 ## Personalizing your workspace
 
@@ -34,4 +34,4 @@ See [here](https://hr.utexas.edu/sites/hr.utexas.edu/files/Ergonomic\_Self\_Eval
 
 ## Purchasing
 
-If you would like to purchase something that will be useful to your project, the office workspace, or other group members, please let Wennie know and send an item description + link to what you want to purchase.
+If you would like to purchase something that will be useful to your project, the office workspace, or other group members, please let Wennie know and send an item description + link to what you want to purchase. This includes things like printing materials, refreshments, extension cords, etc.

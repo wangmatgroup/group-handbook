@@ -12,7 +12,8 @@ There is extensive helpful documentation from TACC on each supercomputing machin
 
 To get access to the computing allocations:
 
-* open a TACC and ACCESS account
+* open a TACC ([https://accounts.tacc.utexas.edu/register](https://accounts.tacc.utexas.edu/register)) and ACCESS account ([https://identity.access-ci.org/new-user.html](https://identity.access-ci.org/new-user.html))
+* (optional) link your TACC account with the UT EID login
 * update the group roster with your TACC And ACCESS username
 * email allocations manager/PI with your username
 * once you have access, get familiar with supercomputer policies and documentation
