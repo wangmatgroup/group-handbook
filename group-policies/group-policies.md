@@ -2,7 +2,7 @@
 
 
 
-Read more [here](group-expectations.md) about general expectations that Wennie (the PI) has of you and what you can expect from Wennie.
+Read more [here](group-expectations/) about general expectations that Wennie (the PI) has of you and what you can expect from Wennie.
 
 * **Work hours:** Wennie does not mandate "fixed" work hours. However you are expected to be present in the  office during at least half of the regular work day and maintain clear and appropriate research progress. Whether you choose to distribute that early in the day or later in the day is up to you. You are required to be present at meetings (individual and group) and at seminars. Being present on campus is important because:
   * regular work hours are when your classmates/labmates, staff, and other faculty are present; this is a time for when you build connections with the group and the department

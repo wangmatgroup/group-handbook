@@ -15,7 +15,7 @@ description: A collection of various tutorials of interest
 
 A collection of various tutorials held during group meetings
 
-**Hosted on the** [**group github**](https://github.com/wangmatgroup)****
+**Hosted on the** [**group github**](https://github.com/wangmatgroup)
 
 * [Literature Search and Reading Papers](https://github.com/wangmatgroup/tutorials/tree/main/LitSearch): tips, tricks, and tools
 * [Jupyter Notebooks: set up and use](https://github.com/wangmatgroup/tutorials/blob/main/Structure-manipulation/Tutorial-Jupyter%20Notebook%20and%20Python%20set%20up.ipynb): a minimum working example

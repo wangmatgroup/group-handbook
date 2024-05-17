@@ -18,4 +18,3 @@ Visit either the department's intranet ([https://intranet.che.utexas.edu/](https
 
 For travel, be sure to \*first\* apply for a travel authorization request \*before\* your trip and a travel reimbursement request after your trip. Keep all (itemized) receipts.&#x20;
 
-****

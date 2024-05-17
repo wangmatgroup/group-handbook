@@ -18,4 +18,3 @@
 * See [ChE Intranet](https://intranet.che.utexas.edu/purchasing-travel-and-reimbursement/travel) for more info
 * When you return, fill out a travel reimbursement form: [https://utdirect.utexas.edu/apps/services/requests/](https://utdirect.utexas.edu/apps/services/requests/)
 
-****

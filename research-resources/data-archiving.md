@@ -37,4 +37,3 @@ Electronic notebook software: [https://openbis.ch/](https://openbis.ch/)
 
 * **Wrap up the project:** Once we have finished the proof stage and the paper is published, send Wennie (and any relevant co-authors) the final pdf along with a full citation (with all author names, title, page numbers, the works), DOI, full text acknowledgements, and bullet points summarizing the acknowledgements.&#x20;
 
-****
