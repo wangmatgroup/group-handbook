@@ -26,7 +26,9 @@ A collection of various tutorials held during group meetings
 
 **General workflow and productivity tutorials**
 
-* Time management (coming soon)
-* Configuring your computer (coming soon)
+* [Time management](https://github.com/wangmatgroup/tutorials/blob/main/time-management-20221130.pdf)
 * [Making Figures/images](https://github.com/wangmatgroup/tutorials/tree/main/Figure-making)
 * [Making Presentations/Posters](https://github.com/wangmatgroup/tutorials/tree/main/PresentationPoster)
+* [Writing a paper](https://github.com/wangmatgroup/tutorials/blob/main/Writing-Papers/writing-papers-202309.pdf)
+* [Data and manuscript archival](https://github.com/wangmatgroup/tutorials/blob/main/Writing-Papers/data-archiving-202309.pdf)
+* Configuring your computer (coming soon)
