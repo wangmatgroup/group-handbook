@@ -26,7 +26,7 @@ See [slides](https://utexas.box.com/shared/static/6s15w5ey22oajn71lw4oa5z84teolh
 A lab notebook is highly recommended. Having a permanent location where you jot ideas, work through concepts, or keep track of data is invaluable in your research. Documentation is a critical skill in scientific research and the more you write down and organize the better. Develop a system that works for you.
 {% endhint %}
 
-An example set up for keeping notes (group members only):
+**An example set-up for keeping note**s (group members only):
 
 * Document that tracks your long/medium/short term goals and progress ([example template](https://utexas.box.com/shared/static/lizhuvkvit0x2q4o5zkphl8v3oo13k33.docx))
 * Notebook for general written notes and seminars ([example](https://utexas.box.com/s/fg48k2y37qe3a5wzb667wn437fwd8ldo))&#x20;
@@ -34,7 +34,7 @@ An example set up for keeping notes (group members only):
 * Compiled summaries of literature search ([example](https://utexas.box.com/shared/static/1ixofeb3l6pd7dlyek5ia3jsoqpc4gmg.pdf)-Lyx, Joplin)
 * short presentations describing the effort involved ([example](https://utexas.box.com/s/ou56itiaub9nbvb7b1gm06gwtojqcdku))
 
-Wennie likes to organize things first by topic, project, sub-project, and then date. Codes are version controlled with [git](https://git-scm.com/) and other content is version controlled by date. There is also some document (notes, slides, README text file) that describes the purpose of the folder, what was done, and the main conclusions.&#x20;
+Wennie likes to organize things first by topic, project, sub-project, and then date. Codes are version controlled with [git](https://git-scm.com/) and other content is version controlled by date. There is also some documentation (notes, slides, README text file) that describes the purpose of the folder, what was done, and the main conclusions.&#x20;
 
 For software tools that help you readily do this, see [Software Resources](../hpc-resources/software-resources.md)
 
