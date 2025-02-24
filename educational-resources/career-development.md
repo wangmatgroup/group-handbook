@@ -17,6 +17,8 @@
 ### Where to look <a href="#careerexploration-wheretolook" id="careerexploration-wheretolook"></a>
 
 * Professional society boards: MRS, APS, ACS, AICHE, IEEE, TMS
+* Journals
+  * e.g., Science: [Career Trends: A Scientific Career Toolkit](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.aaas.sciencepubs.org%2F%3Fqs%3D06d180e6226ac6e4c940bd181f1ba89f1b904f729ed1ae0f70257a659e1d61a783d7c455f344a899992c3901f54192915f1eb73ffaee9864dceffc8899f12e52\&data=05%7C02%7C%7Ce9afbf95a2684005a06408dd4c40d918%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638750563590090367%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C\&sdata=xcdRfN2yb3S8eoj9uAuMuEUO8r2RBFot1fWnvUi8HhI%3D\&reserved=0)
 * word-of-mouth
 * Psi K: [https://psi-k.net/jobs/](https://psi-k.net/jobs/)
 
