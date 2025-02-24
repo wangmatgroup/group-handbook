@@ -14,7 +14,7 @@
 * Discuss with Wennie about the potential conference you are interested in
 * Iterate with Wennie your abstract submission
 * Fill out a request to travel at least two weeks from the travel dates: [https://utdirect.utexas.edu/apps/services/requests/](https://utdirect.utexas.edu/apps/services/requests/); email Wennie for the appropriate account number.&#x20;
-* Be familiar with the per diem for food and lodging**;** keep all receipts
+* Be familiar with the per diem for food and lodgin&#x67;**;** keep all receipts
 * See [ChE Intranet](https://intranet.che.utexas.edu/purchasing-travel-and-reimbursement/travel) for more info
 * When you return, fill out a travel reimbursement form: [https://utdirect.utexas.edu/apps/services/requests/](https://utdirect.utexas.edu/apps/services/requests/)
 

@@ -1,8 +1,8 @@
-# Fellowships and Scholarships
+# Fellowships, Scholarships, Awards
 
 
 
-* **Be active in looking for funding**
+* **Be active in looking for funding and awards**
 * **Why apply?**
   * Prestige- boost future applications competitiveness
   * Free money! Scholarships are a great way to open up opportunities. Fellowships also often offer a huge bump in your stipend
