@@ -17,7 +17,7 @@ Many journals require some kind of subscription to access journal articles ([but
 
 ## **Introduction Books** <a href="#id-6.readinglist-introductionbooks" id="id-6.readinglist-introductionbooks"></a>
 
-#### Helpful Math References <a href="#id-6.readinglist-helpfulmathreferences" id="id-6.readinglist-helpfulmathreferences"></a>
+### Math References <a href="#id-6.readinglist-helpfulmathreferences" id="id-6.readinglist-helpfulmathreferences"></a>
 
 _Introduction to Linear Algebra_, Gilbert Strang- Strang gives a charming intro to linear algebra with many practical examples.
 
@@ -25,20 +25,21 @@ _Numerical Methods for Scientists and Engineers_, R.W. Hamming- A useful referen
 
 _Mathematical Physics: Applied Mathematics for Scientists and Engineers_, Bruce Kusse and Erik Westwig- Similar to above but with different emphasis on different topics; more mathematical in nature, larger emphasis on complex variables and analysis
 
-#### Quantum Mechanics <a href="#id-6.readinglist-quantummechanics" id="id-6.readinglist-quantummechanics"></a>
+### Quantum Mechanics <a href="#id-6.readinglist-quantummechanics" id="id-6.readinglist-quantummechanics"></a>
 
-_Introduction to Quantum Mechanics_. David J. Griffiths- This is the classic (ironic pun intended) text used in introductory quantum mechanics courses across undergraduate physics programs; it also has a good sense of humor and many example problems. No linear algebra knowledge needed.\
+_Introduction to Quantum Mechanics_. David J. Griffiths- This is the classic (ironic pun intended) text used in introductory quantum mechanics courses across undergraduate physics programs; it also has a good sense of humor and many example problems. No linear algebra knowledge needed.
 
+_Introduction to Quantum Theory and Atomic Structure_ (Oxford Chemistry Primers, 37) by P. A. Cox- A good refresher on quantum mechanics topics
 
-_Introduction to Quantum Theory and Atomic Structure_ (Oxford Chemistry Primers, 37) by P. A. Cox- A good quantum mechanics refresher that frames topics in a way especially useful for solid-state systems
-
-_Principles of Quantum Mechanics_, R. Shankar- An upper undergrad/graduate-level textbook; considered one of the most modern textbooks in quantum mechanics
+_Principles of Quantum Mechanics_, R. Shankar- An upper undergrad/graduate-level textbook; considered a modern textbooks in quantum mechanics
 
 _Modern Quantum Mechanics_, J.J. Sakurai- similar to above, but perhaps a bit more advanced (and dense in prose)
 
-#### **Solid-state physics** <a href="#id-6.readinglist-solid-statephysics" id="id-6.readinglist-solid-statephysics"></a>
+_Quantum Mechanics For Engineering: Materials Science and Applied Physics_, Herbert Kroemer- Reframes quantum mechanics in the context of materials physics and semiconductor physics. Includes useful introduction to group theory, perturbation theory, scattering theory&#x20;
 
-\*_The Electron Structure and Chemistry of Solids_ (Oxford Science Publications), P.A. Cox- Similarly well-thought out text and more intuitive illustrations for introducing concepts from solid-state physics
+### Solid-state physics
+
+\*_The Electron Structure and Chemistry of Solids_ (Oxford Science Publications), P.A. Cox- Well-thought out text and more intuitive illustrations for introducing concepts from solid-state physics from a chemistry perspective
 
 \*_Introduction to Solid State Physics_, C. Kittel- Useful to have for reference; basics in solid state
 
@@ -47,18 +48,23 @@ _Solid State Physics_, Ashcroft & Mermin- Useful reference book; graduate-level 
 
 _Fundamental of Semiconductors: Physics & Materials Properties_; Yu and Cardona- Graduate-level textbook; excellent prose and ability to summarize key theoretical concepts and pivotal papers for each topic
 
-#### **Density Functional Theory** <a href="#id-6.readinglist-densityfunctionaltheory" id="id-6.readinglist-densityfunctionaltheory"></a>
+### **Density Functional Theory** <a href="#id-6.readinglist-densityfunctionaltheory" id="id-6.readinglist-densityfunctionaltheory"></a>
 
-[DFT Exchange: Sharing Perspectives on the Workhorse of Quantum Chemistry and Materials Science](https://scholar.google.com/scholar\_url?url=https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/62974da519595958f0bcc339/original/dft-exchange-sharing-perspectives-on-the-workhorse-of-quantum-chemistry-and-materials-science.pdf\&hl=en\&sa=X\&d=2906596648213923354\&ei=ZlqxYuCiDo3QmAGisrAo\&scisig=AAGBfm1KgngNgymWffg-Ye0fRzUvF6n3Cg\&oi=scholaralrt\&hist=kLgIJlAAAAAJ:11260973977313699658:AAGBfm34GwFvnN8WXFg--xIqKSF-tD-teQ\&html=\&pos=0\&folt=art): a great perspective article on what is DFT, where is DFT headed, why has DFT been so successful from some of the people who shaped it into what it is today.
+[DFT Exchange: Sharing Perspectives on the Workhorse of Quantum Chemistry and Materials Science](https://scholar.google.com/scholar_url?url=https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/62974da519595958f0bcc339/original/dft-exchange-sharing-perspectives-on-the-workhorse-of-quantum-chemistry-and-materials-science.pdf\&hl=en\&sa=X\&d=2906596648213923354\&ei=ZlqxYuCiDo3QmAGisrAo\&scisig=AAGBfm1KgngNgymWffg-Ye0fRzUvF6n3Cg\&oi=scholaralrt\&hist=kLgIJlAAAAAJ:11260973977313699658:AAGBfm34GwFvnN8WXFg--xIqKSF-tD-teQ\&html=\&pos=0\&folt=art): a great perspective article on what is DFT, where is DFT headed, why has DFT been so successful from some of the people who shaped it into what it is today.
 
-\*Kieron Burke, ABC’s of DFT:  Available: [https://dft.uci.edu/doc/g1.pdf](https://dft.uci.edu/doc/g1.pdf) -A good first read for the basics of the theory. From one of the early big names in DFT. Many more references from Burke at: [https://dft.uci.edu/learnDFT.php](https://dft.uci.edu/learnDFT.php)\
+\*Kieron Burke, ABC’s of DFT:  Available: [https://dft.uci.edu/doc/g1.pdf](https://dft.uci.edu/doc/g1.pdf) -A good first read for the basics of the theory. From one of the early big names in DFT. Many more references from Burke at: [https://dft.uci.edu/learnDFT.php](https://dft.uci.edu/learnDFT.php)
 
+\*Sholl and Steckel, Density Functional Theory: A Practical Introduction- [link](http://www.nanoer.net/d/img/Density%20functional%20theory-a%20practical%20introduction411565.pdf)[-](http://www.scribd.com/doc/65486306/Density-Functional-Theory-A-) \
+Practical-Introduction - a good first read;  includes a lot more practical information for actual calculations.&#x20;
 
-\*Sholl and Steckel, Density Functional Theory: A Practical Introduction- [link](http://www.nanoer.net/d/img/Density%20functional%20theory-a%20practical%20introduction411565.pdf)[-](http://www.scribd.com/doc/65486306/Density-Functional-Theory-A-) Practical-Introduction -Also a good first read but includes a lot more practical information for actual calculations.&#x20;
+Feliciano Giustino: _Materials Modeling using Density Functional Theory_\
+This text contains a nice summary of the theory behind DFT and many modern examples of its application, particularly in condensed matter (e.g., magnetism, superconductivity). It is also written by one of the faculty at UT!
 
-Richard Martin: Electronic Structure  This book is more advanced, but detailed and comprehensive; a great reference for specific subject if you would like more information. It also has a thorough reference list, so it can be used to determine seminal papers about the different aspects of DFT.&#x20;
+Richard Martin: _Electronic Structure_  \
+This book is more advanced, extremely detailed and comprehensive; a great reference. It also has a thorough reference list, so it can be used to determine seminal papers about the different aspects of DFT.&#x20;
 
-Fiolhais, Nogueira, and Marques: A Primer in Density Functional Theory  Available: [link](http://www.physics.udel.edu/\~bnikolic/QTTG/NOTES/DFT/BOOK%3Dprimer\_dft.pdf) -A little more mathematically rigorous theory&#x20;
+Fiolhais, Nogueira, and Marques: _A Primer in Density Functional Theory_  \
+Available: [link](http://www.physics.udel.edu/~bnikolic/QTTG/NOTES/DFT/BOOK%3Dprimer_dft.pdf) -A little more mathematically rigorous theory&#x20;
 
 **Additional References:**&#x20;
 
@@ -70,10 +76,12 @@ These are a few additional references. If you do not understand some aspect and 
 
 \*von Barth, U. Basic Density-Functional Theory; an Overview. Phys. Scr. T109, 9–39 (2004).
 
+R.O. Jones. "Density functional theory: Its origins, rise to prominence, and future." Rev. Mod. Phys. 87, 897 (2015)\
+[https://doi.org/10.1103/RevModPhys.87.897 ](https://doi.org/10.1103/RevModPhys.87.897)
+
 Engel and R.M. Dreizler: Density Functional Theory: An Advanced Course Available: [http://www.springerlink.com/content/978-3-642-14089-1/contents/](http://www.springerlink.com/content/978-3-642-14089-1/contents/) -This is a great reference if you would like more mathematical rigor&#x20;
 
-R.O. Jones and O. Gunnerson: The density functional formalism, its applications and prospects  Available: [http://rmp.aps.org/abstract/RMP/v61/i3/p689\_1](http://rmp.aps.org/abstract/RMP/v61/i3/p689\_1) \
-
+R.O. Jones and O. Gunnerson: The density functional formalism, its applications and prospects  Available: [http://rmp.aps.org/abstract/RMP/v61/i3/p689\_1](http://rmp.aps.org/abstract/RMP/v61/i3/p689_1) 
 
 **Additional Resources:**
 
@@ -81,6 +89,18 @@ Many formal tutorials and courses have been done for DFT. Some examples are:
 
 * [CECAM's Virtual Winter DFT School](https://winterschool.cc/)
 * [Practical DFT, a course from Prof. Tom Arias of Cornell](http://jdftx.org/PracticalDFT.html)- some parts of the video lecture series are missing, but it offers some nice insight into how DFT is implemented in various electronic structure codes.
+
+### Related Computational Methods
+
+Christopher J. Cramer: _Essentials of Computational Chemistry: Theories and Models_\
+A more quantum chemistry perspective, with a greater emphasis on molecules, molecular orbitals theory, general electronic structure theory
+
+Daan Frenkel and Berend Smit: _Understanding Molecular Simulation: from Algorithms to Applications_\
+Emphasis on molecular dynamics, modeling thermodynamic and kinetic quantities at the molecular scale. Includes examples and pseudo-code for implementing advanced algorithms.&#x20;
+
+Richard LeSar: _Computational Materials Science: Fundamentals to Applications_\
+Contains examples of methods related to materials simulation, including random diffusion, kinetic Monte Carlo, Ising model, cellular automata, with emphasis on simplified models. \
+
 
 ## **Original papers** <a href="#id-6.readinglist-originalpapers" id="id-6.readinglist-originalpapers"></a>
 
@@ -117,7 +137,7 @@ Unified Approach for Molecular Dynamics and Density-Functional Theory. Car and M
 
 **Iterative minimization techniques for ab-initio total-energy calculations: molecular dynamics and conjugate-gradients**&#x20;
 
-M.C.Payne, M.P.Teter, D.C.Allan, T.A.Arias, J.D.Joannopoulos Rev.Mod.Phys. 64, 1045-1097 (1992) \[[doi](http://prola.aps.org/abstract/RMP/v64/i4/p1045\_1)]
+M.C.Payne, M.P.Teter, D.C.Allan, T.A.Arias, J.D.Joannopoulos Rev.Mod.Phys. 64, 1045-1097 (1992) \[[doi](http://prola.aps.org/abstract/RMP/v64/i4/p1045_1)]
 
 _This rather detailed review paper gives a good starting point to understand the basic concepts of DFT calculations._
 
@@ -140,11 +160,10 @@ VASP:&#x20;
 * References related to the code:&#x20;
   *   G. Kresse and J. Hafner, Phys. Rev. B 47 , 558 (1993); ibid. 49 , 14 251 (1994).
 
-      G. Kresse and J. FurthmÃ¼ller, Comput. Mat. Sci. 6 , 15 (1996).
+      G. Kresse and J. Furthmueller, Comput. Mat. Sci. 6 , 15 (1996).
 
-      G. Kresse and J. FurthmÃ¼ller, Phys. Rev. B 54 , 11 169 (1996).
+      G. Kresse and J. Furthmueller, Phys. Rev. B 54 , 11 169 (1996).
 
-      \
 
 *   Ultrasoft pseudopotentials should be referenced as
 
@@ -160,10 +179,19 @@ VASP:&#x20;
 
 _Learn how pseudopotentials can be generated._
 
-SG ONCV Norm-conserving pseudopotentials: [http://www.quantum-simulation.org/potentials/sg15\_oncv/](http://www.quantum-simulation.org/potentials/sg15\_oncv/)&#x20;
+SG ONCV Norm-conserving pseudopotentials: [http://www.quantum-simulation.org/potentials/sg15\_oncv/](http://www.quantum-simulation.org/potentials/sg15_oncv/)&#x20;
 
 Pseudo Dojo: [http://www.pseudo-dojo.org/](http://www.pseudo-dojo.org/)
 
 Opium, a code to help generate pseudopotentials: [http://opium.sourceforge.net/](http://opium.sourceforge.net/)
 
 QE libary (and can also generate some pseudopotentials: [https://www.quantum-espresso.org/pseudopotentials/](https://www.quantum-espresso.org/pseudopotentials/)
+
+## Defects in Semiconductors
+
+Freysoldt, C. _et al._ First-principles calculations for point defects in solids. _Reviews of Modern Physics_ 86, 253–305 (2014). [https://link.aps.org/doi/10.1103/RevModPhys.86.253](https://link.aps.org/doi/10.1103/RevModPhys.86.253)
+
+Freysoldt, C. & Neugebauer, J. First-principles calculations for charged defects at surfaces, interfaces, and two-dimensional materials in the presence of electric fields. _Physical Review B_ 97, 205425 (2018). [https://link.aps.org/doi/10.1103/PhysRevB.97.205425](https://link.aps.org/doi/10.1103/PhysRevB.97.205425)
+
+Sunghyun Kim _et al._ "Quick-start guide for first-principles modelling of point defects in crystalline materials" _J. Phys. Energy_ 2 036001 (2020). [https://dx.doi.org/10.1088/2515-7655/aba081](https://dx.doi.org/10.1088/2515-7655/aba081)
+

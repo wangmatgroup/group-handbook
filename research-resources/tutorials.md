@@ -7,9 +7,11 @@ description: A collection of various tutorials of interest
 ## General T**utorials**
 
 * Learning Linux commands
-  * &#x20;[https://linuxjourney.com/lesson/the-shell](https://linuxjourney.com/lesson/the-shell)
-  * [http://linuxcommand.org/lc3\_learning\_the\_shell.php](http://linuxcommand.org/lc3\_learning\_the\_shell.php)
-*
+  * Ubuntu's version for basic  commands: [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+  * &#x20;A guided, somewhat interactive tutorial: [https://linuxjourney.com/lesson/the-shell](https://linuxjourney.com/lesson/the-shell)
+  * [http://linuxcommand.org/lc3\_learning\_the\_shell.php](http://linuxcommand.org/lc3_learning_the_shell.php)
+
+
 
 ## **Group Tutorials**
 
