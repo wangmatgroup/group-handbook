@@ -22,6 +22,11 @@ We will have regular meetings, usually on the order of once per week. You are ex
 
 See [slides](https://utexas.box.com/shared/static/6s15w5ey22oajn71lw4oa5z84teolhc1.pdf) for further information.
 
+
+
+An example for research progress is here: [https://utexas.box.com/s/ou56itiaub9nbvb7b1gm06gwtojqcdku](https://utexas.box.com/s/ou56itiaub9nbvb7b1gm06gwtojqcdku)\
+For reference, you can compare with the final paper that drew upon these slides:  [https://pubs.acs.org/doi/10.1021/jacs.2c07501](https://pubs.acs.org/doi/10.1021/jacs.2c07501)
+
 {% hint style="info" %}
 A lab notebook is highly recommended. Having a permanent location where you jot ideas, work through concepts, or keep track of data is invaluable in your research. Documentation is a critical skill in scientific research and the more you write down and organize the better. Develop a system that works for you.
 {% endhint %}
