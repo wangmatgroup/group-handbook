@@ -2,11 +2,11 @@
 
 Below is a running list of resources that are helpful in learning about the field. Please add references/papers/books/texts that you found helpful in your research.
 
-We attempted to provide several references for each topic; the book chapters will be more useful at first, but we also included the original papers, which are good to go over once you are familiar with the basic principles. The readings are (generally) in order of what you should review. Within each topic, the references are also (generally) in order of least to most advanced, so start with the first few in each topic.&#x20;
+We attempted to provide several references for each topic; the book chapters will be more useful at first, but we also included the original papers, which are good to go over once you are familiar with the basic principles. The readings are (generally) in order of topic specificity. Within each topic, the references are also (generally) in order of least to most advanced, so start with the first few in each topic.&#x20;
 
-It is not necessary to go through every reference (in fact, it would be overwhelming to do so!); this is just a compiled list of resources we find are useful to get oriented in the literature. References with \* are those that we recommend starting with in each sub-topic.&#x20;
+It is not necessary to go through every reference (in fact, it would be overwhelming to do so!); this is just a compiled list of resources we find are useful to get oriented in the literature and to revisit when you need a theory refresher. References with \* are those that we recommend starting with in each sub-topic.&#x20;
 
-If you cannot find a copy of a text, ask around- there's likely a copy floating around somewhere!
+If you cannot find a copy of a text, ask around- there is likely a copy floating around somewhere in the group!
 
 #### **A brief note on accessing journal articles off campus** <a href="#id-6.readinglist-abriefnoteonaccessingjournalarticlesoffcampus" id="id-6.readinglist-abriefnoteonaccessingjournalarticlesoffcampus"></a>
 
@@ -34,6 +34,8 @@ _Introduction to Quantum Theory and Atomic Structure_ (Oxford Chemistry Primers,
 _Principles of Quantum Mechanics_, R. Shankar- An upper undergrad/graduate-level textbook; considered a modern textbooks in quantum mechanics
 
 _Modern Quantum Mechanics_, J.J. Sakurai- similar to above, but perhaps a bit more advanced (and dense in prose)
+
+_-------_
 
 _Quantum Mechanics For Engineering: Materials Science and Applied Physics_, Herbert Kroemer- Reframes quantum mechanics in the context of materials physics and semiconductor physics. Includes useful introduction to group theory, perturbation theory, scattering theory&#x20;
 
