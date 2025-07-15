@@ -11,7 +11,7 @@ We are excited to have you join and look forward to doing research together!&#x2
 
 This is a living document intended to outline group policies/expectations, how to's, and offer useful advice for navigating your years in the group and in the university.
 
-This document is a collaborative effort for everyone who is a part of the group. If you have something to add/change, take a look at [contributing to the wiki.](misc-resources/contributing-to-the-wiki.md)
+This document is a collaborative effort for everyone who is a part of the group. If you have something to add/change, take a look at [contributing to the wiki.](other-resources/contributing-to-the-wiki.md)
 
 Gitbook url: [https://wang-materials-group.gitbook.io/group-handbook/](https://wang-materials-group.gitbook.io/group-handbook/)
 

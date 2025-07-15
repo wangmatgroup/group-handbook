@@ -60,7 +60,7 @@
 * [TACC resources](hpc-resources/tacc-resources.md)
 * [Inventory & Equipment](hpc-resources/inventory-and-equipment.md)
 
-## Misc Resources
+## Other Resources
 
-* [Around Austin](misc-resources/around-austin.md)
-* [Contributing to the Wiki](misc-resources/contributing-to-the-wiki.md)
+* [UT Austin campus resources](other-resources/ut-austin-campus-resources.md)
+* [Contributing to the Wiki](other-resources/contributing-to-the-wiki.md)
