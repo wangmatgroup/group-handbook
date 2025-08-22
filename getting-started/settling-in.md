@@ -41,7 +41,7 @@ Below we list a few useful resources to help you navigate and plan for your time
 * (G/PD) **Talk to Wennie about getting a work station.** See the [Computer and workspace](computer-and-workspace.md) page for more info.
 * Read about the group's [expectations](../group-policies/group-expectations/) and [policies](broken-reference)
 * Get a head start on recommendations from the [reading list](../research-resources/reading-list/)
-* The group's home department is the Chemical Engineering Department, which has an extensive infrastructure of administrative support. You will want to know the staff who will be helping you throughout your journey here. Below listed are some of the relevant positions. For the most up-to-date contact info, see [staff listing](https://www.che.utexas.edu/people/staff)
+* The group's home department is the [Chemical Engineering Department](https://che.utexas.edu/), which has an extensive infrastructure of administrative support. You will want to know the staff who will be helping you throughout your journey here. Below listed are some of the relevant positions. For the most up-to-date contact info, see [staff listing](https://www.che.utexas.edu/people/staff)
   * Undergraduate Academic Advisor,  Academic Advising Coordinator
   * Graduate Advisor, Recruitment chair, Program Administrator
   * IT manager
