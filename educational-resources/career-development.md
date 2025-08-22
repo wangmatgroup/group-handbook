@@ -22,12 +22,26 @@
 * word-of-mouth
 * Psi K: [https://psi-k.net/jobs/](https://psi-k.net/jobs/)
 
+### Preparing a job application <a href="#careerexploration-preparingajobapplication" id="careerexploration-preparingajobapplication"></a>
+
+* **Have a master CV:** with everything you have ever done/accomplished (publications, activities, awards/honors, etc.) and update it regularly throughout the year. Having a master version makes it easier to create tailored CVs/resumes when applying for positions. Many examples on the group website!
+* **Keep all versions of your statements**: You will be writing many statements (personal, research, service) throughout your career!
+
+## Resources for Undergraduates and Graduates:  <a href="#careerexploration-whatcanidowithaphd" id="careerexploration-whatcanidowithaphd"></a>
+
 ### What can I do with a PhD? <a href="#careerexploration-whatcanidowithaphd" id="careerexploration-whatcanidowithaphd"></a>
 
 * Map out a career plan, e.g., [Versatile PhD](https://gradschool.utexas.edu/services-and-resources/career-resources/versatile-phd): for humanities and STEM fields; has example application materials
 * Beyond Academia: [Berkeley](https://beyondacademia.berkeley.edu/), [UCSB](https://beyondacademia.ucsb.edu/): many example topics and profiles of people who did cool things in their post-PhD life.
 
-### Preparing a job application <a href="#careerexploration-preparingajobapplication" id="careerexploration-preparingajobapplication"></a>
+## Resources for Postdocs: <a href="#careerexploration-preparingajobapplication" id="careerexploration-preparingajobapplication"></a>
 
-* **Have a master CV:** with everything you have ever done/accomplished (publications, activities, awards/honors, etc.) and update it regularly throughout the year. Having a master version makes it easier to create tailored CVs/resumes when applying for positions
-* **Keep all versions of your statements**: You will be writing many statements (personal, research, service) throughout your career!
+* [UT Office of Postdoctoral Affairs](https://postdocs.utexas.edu/professional-development): Be on the look out for the application cycle for the Early Career Postdoctoral Fellows Program, which provides additional seminars and social activities, e.g.,
+  * achieving a tenure-track appointment
+  * syllabus and classroom management
+  * raising your visibility profile
+  * establishing good conversations during negotiations
+  * future-proofing your career
+  * effective communication for productive collaborations.
+  * using improv and storytelling to improve your research pitch
+  * mentoring undergraduate and graduate students
