@@ -23,6 +23,10 @@ There are several resources for mentorship that you can turn to (a non-exhaustiv
 
 Not all relationships have explicit mentorship built into them and some are more indirect (like with superstar scientists). Like all relationships, mentoring relationships take time and effort to cultivate. And of course, you will invariably become a mentor yourself to others!
 
+{% hint style="success" %}
+**Be proactive and prepared with what you are asking when contacting mentors for meetings.**&#x20;
+{% endhint %}
+
 **Q: How can I find a mentor? What should I look for in a mentor?**
 
 There are a plethora of online resources for how to find a mentor. Some ones that may be useful:
@@ -30,3 +34,15 @@ There are a plethora of online resources for how to find a mentor. Some ones tha
 * [https://www.nature.com/nature-index/news-blog/tool-how-choose-mentors-academic-scholar-early-career-researcher](https://www.nature.com/nature-index/news-blog/tool-how-choose-mentors-academic-scholar-early-career-researcher)
 * [Nature's guide for mentors](https://www.nature.com/articles/447791a)
 * [Getting a mentor you need](https://www.science.org/content/article/getting-mentoring-you-need)
+
+**Q: I have mentor(s), what do I talk to them about?**
+
+Many topics are possible with having several available mentors:
+
+* Career goals and timeline; entering the job market and field-specific practices
+* Research plans and possible publications
+* Research group culture (e.g., daily schedules, interactions, expectations)
+* Attendance and presentations at seminars and conferences
+* Teaching, mentoring, supervision opportunities
+* Networking skills and finding additional mentor(s)
+* Career workshops and panels (on- and off-campus opportunities)
