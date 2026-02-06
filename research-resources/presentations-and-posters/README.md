@@ -9,7 +9,11 @@ When making or giving presentations and posters
 * Is the presentation/poster technically correct in all parts?
 * Is the presentation/poster self-contained?
 * Are all statements and conclusions appropriately supported with data?
-*
+
+#### Content:
+
+* Is the content adapted to the anticipated audience?
+* Any component generated with the help of AI is acknowledged.&#x20;
 
 #### Clarity and Organization
 
@@ -24,5 +28,14 @@ When making or giving presentations and posters
 #### Formatting
 
 * Consistent formatting of references
+* Double check for typos in text and equations
 * Consistently formatted slides or poster (e.g., minimal types of font, minimal number of font sizes)
 * Updated author list, author affiliations, and acknowledgements
+
+#### Logistics
+
+* Presentation: well-paced and within time limit
+* Slides are compatible with computer used for presentation
+* Poster: short, medium, long versions of poster presentation
+* Poster: is the correct size
+* Backup copies or alternate versions
