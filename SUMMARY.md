@@ -36,6 +36,7 @@
   * [As you write](research-resources/writing-a-manuscript/as-you-write.md)
   * [Reviewer comments](research-resources/writing-a-manuscript/reviewer-comments.md)
   * [Revising and submission](research-resources/writing-a-manuscript/revising-and-submission.md)
+  * [After publishing](research-resources/writing-a-manuscript/after-publishing.md)
 * [Data archiving](research-resources/data-archiving.md)
 * [Netiquette](research-resources/netiquette.md)
 * [Presentations and Posters](research-resources/presentations-and-posters/README.md)

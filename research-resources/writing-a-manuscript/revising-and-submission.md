@@ -35,6 +35,6 @@ Once all co-authors and PIs agree a manuscript is ready to submit, the following
   * PNAS
 * **Cover letter:** most journals require a cover letter to the editor. Look or ask for examples and compose a draft.
 * **Make sure you have communicated with co-authors ahead of time:** some projects will involve multiple people, including those outside the group. Be sure to consistently communicate with co-authors throughout the process, including up to and beyond submission. Everyone should agree on the final version being submitted.&#x20;
-* **Identify potential reviewers:** a good place to start are the references and your literature search. We can also discuss who might be good reviewers.
+* **Identify potential reviewers:** a good place to start are the references and your literature search. Propose a list of potential reviewers and a brief justification of their expertise.
 * **Make sure the acknowledgements are correct:** This is extremely important for reporting to funding agencies and getting future funding. Many agencies have specific wording that they want used. Double check or ask if unsure.&#x20;
 * Creating a separate document recording the information inputted during the submission process may be useful for future information

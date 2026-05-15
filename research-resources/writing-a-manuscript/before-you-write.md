@@ -5,7 +5,7 @@
 * How to write, some references:&#x20;
   * The elements of style, Strunk and White
   * “The art of writing science”, Kevin Plaxco (doi: [10.1002/pro.514](https://dx.doi.org/10.1002/pro.514))
-* **Use software tools to your advantage**: There are many available text editors and word processors. I am a big proponent of LaTeX. While the learning curve may be steep at first, learning to use LaTeX can save you \*\*a lot\*\* of time in the future in formatting. And many journals have templates to start from.&#x20;
-* **Get something on the page**: I find writing about the methodology and results/discussion is easiest to write first, leaving the conclusion and abstract till later once the rest of the paper has taken shape.
+* **Use software tools to your advantage**: There are many available text editors and word processors. LaTeX is highly recommended. While the learning curve may be steep at first, learning to use LaTeX can save you \*\*a lot\*\* of time in the future in formatting. And many journals have templates to start from.&#x20;
+* **Get something on the page**: Writing about the methodology and results/discussion may be the easiest to write first, leaving the conclusion and abstract till later once the rest of the paper has taken shape.
 * **Start with macro ideas** (organization, flow, argument/evidence, interpretation, etc.) **and then focus on micro ideas** (grammar, formatting, graph colors, etc.)
 
