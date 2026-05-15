@@ -20,7 +20,7 @@ We will have regular meetings, usually on the order of once per week. You are ex
 
 4\) what next steps you will take
 
-See [slides](https://utexas.box.com/shared/static/6s15w5ey22oajn71lw4oa5z84teolhc1.pdf) for further information.
+See [slides](https://github.com/wangmatgroup/tutorials/blob/e8390d6475ad36d8510c08115c23f1741161a7b2/research-meeting-expectations-20221130.pdf) for further information.
 
 
 

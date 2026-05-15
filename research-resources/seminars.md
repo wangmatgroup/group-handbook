@@ -13,4 +13,4 @@ How can I know when seminars happen?
 * Oden Institute (typically Tues and Thurs 3-5pm): [https://oden.utexas.edu/news-and-events/events/](https://oden.utexas.edu/news-and-events/events/)
 * Texas Materials Instiutte (typically Weds 12-1pm): [https://tmi.utexas.edu/news-events/seminars/range.listevents/-](https://tmi.utexas.edu/news-events/seminars/range.listevents/-)
 
-\
+<br>

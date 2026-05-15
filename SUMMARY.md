@@ -23,7 +23,7 @@
 ## Research Resources
 
 * [Advice on Work Habits](research-resources/advice-on-work-habits.md)
-* [Tutorials](research-resources/tutorials.md)
+* [Tutorials and Tips](research-resources/tutorials-and-tips.md)
 * [Reading list](research-resources/reading-list/README.md)
   * [Group Library](research-resources/reading-list/group-library.md)
 * [Fellowships, Scholarships, Awards](research-resources/fellowships-and-scholarships/README.md)

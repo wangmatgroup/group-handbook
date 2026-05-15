@@ -4,8 +4,7 @@ This is a running list of advice accrued through the years. As with all advice, 
 
 ## General productivity tips
 
-* **Optimize your time management skills:** This is arguably one of the most important skills you will hone throughout your career. As you gain experience, you will become more familiar with how long things take. In my experience, things often take about 1.5-2x longer than predicted. Prioritize, plan, execute, and check. Some strategies\
-
+* **Optimize your time management skills:** This is arguably one of the most important skills you will hone throughout your career. As you gain experience, you will become more familiar with how long things take. In my experience, things often take about 1.5-2x longer than predicted. Prioritize, plan, execute, and check. Some strategies<br>
   * make a list of priorities and "[eat the frog](https://todoist.com/productivity-methods/eat-the-frog)" first (i.e., do the least appetizing thing on your list first)
   * keep track of how you spend your time to see where it goes and adjust accordingly (e.g., mark your calendar with how you spent your day; tally up your hours spent periodically, say every semester or so)
   * learning when to say something is good enough and when to say something still needs work (e.g., will this work benefit my short/medium/long term goals?)

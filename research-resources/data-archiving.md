@@ -30,8 +30,7 @@ Once the paper is close to completion (i.e., published), your next task is to cu
 
 #### Where to curate/archive <a href="#id-3.datacurationandarchiving-wheretocurate-archive" id="id-3.datacurationandarchiving-wheretocurate-archive"></a>
 
-Zenodo → generates DOI\
-
+Zenodo → generates DOI<br>
 
 Electronic notebook software: [https://openbis.ch/](https://openbis.ch/)
 

@@ -45,8 +45,7 @@ _Quantum Mechanics For Engineering: Materials Science and Applied Physics_, Herb
 
 \*_Introduction to Solid State Physics_, C. Kittel- Useful to have for reference; basics in solid state
 
-_Solid State Physics_, Ashcroft & Mermin- Useful reference book; graduate-level textbook; more mathematically intense compared to Kittel\
-
+_Solid State Physics_, Ashcroft & Mermin- Useful reference book; graduate-level textbook; more mathematically intense compared to Kittel<br>
 
 _Fundamental of Semiconductors: Physics & Materials Properties_; Yu and Cardona- Graduate-level textbook; excellent prose and ability to summarize key theoretical concepts and pivotal papers for each topic
 
@@ -101,8 +100,7 @@ Daan Frenkel and Berend Smit: _Understanding Molecular Simulation: from Algorith
 Emphasis on molecular dynamics, modeling thermodynamic and kinetic quantities at the molecular scale. Includes examples and pseudo-code for implementing advanced algorithms.&#x20;
 
 Richard LeSar: _Computational Materials Science: Fundamentals to Applications_\
-Contains examples of methods related to materials simulation, including random diffusion, kinetic Monte Carlo, Ising model, cellular automata, with emphasis on simplified models. \
-
+Contains examples of methods related to materials simulation, including random diffusion, kinetic Monte Carlo, Ising model, cellular automata, with emphasis on simplified models. <br>
 
 ## **Original papers** <a href="#id-6.readinglist-originalpapers" id="id-6.readinglist-originalpapers"></a>
 

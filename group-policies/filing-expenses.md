@@ -20,8 +20,7 @@ For travel, be sure to \*first\* apply for a travel authorization request \*befo
 
 Always confirm allowed expenses with your PI.
 
-**University-related Travel and Reimbursement Information**\
-
+**University-related Travel and Reimbursement Information**<br>
 
 * Some international destinations require preapproval from Global Risk and Safety. Restricted regions list: [https://global.utexas.edu/risk/travel/restricted-regions/list](https://global.utexas.edu/risk/travel/restricted-regions/list)
 * All business travel requires an RTA, even if you are not seeking reimbursement. You do not need an RTA for personal travel.
