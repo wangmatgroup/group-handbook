@@ -23,3 +23,13 @@ Everyone has a different process for editing papers. I believe it is important t
 4. Wait a little bit and revisit with a "fresh" set of eyes and read again
 5. Ask another person to help edit.
 6. Are there parts missing in the manuscript needed for submission- always double check!
+
+In general, **be quantitative, be specific.**
+
+**Example pitfalls in scientific writing**
+
+* Not having a topic sentence at the beginning of each paragraph.
+* Having an over-flowery conclusion sentence.
+* The conclusions sentence is not supported by the data presented.
+* Comparisons are not specific (e.g., sentence structure is not parallel) or are not quantified (e.g., if something is smaller, how much smaller?)
+* The text does not parallel the figures and vice versa.
