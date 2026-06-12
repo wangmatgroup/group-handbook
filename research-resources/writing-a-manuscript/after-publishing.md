@@ -14,3 +14,4 @@ Now that your paper is published, there are a few housekeeping things to do in t
 * In a separate \*.docx:
   * Full citation in the following format: First Name Last Name. "Title." _Journal._ volume, issue, page (year). \[link to repository]\[doi: doi link]
   * Copy of the text of the Acknowledgements&#x20;
+* Double check that the data curation is up-to-date.
