@@ -1,4 +1,5 @@
 ---
+description: An list of resources for your arrival.
 cover: >-
   https://cdn.vox-cdn.com/thumbor/cKvOqcc0ysDg_p80bZB1WeqoBBk=/0x0:851x315/1200x800/filters:focal(358x90:494x226)/cdn.vox-cdn.com/uploads/chorus_image/image/54305981/UT_Austin_Facebook.0.jpg
 coverY: 0
@@ -39,7 +40,7 @@ Below we list a few useful resources to help you navigate and plan for your time
 * see the [Communication channels](../group-policies/communication-channels.md) page for the full list of how we keep in communication
 * (UG/G) **Register for next semester's classes.** See more on the [Classes at UT](../educational-resources/classes-at-ut.md) page
 * (G/PD) **Talk to Wennie about getting a work station.** See the [Computer and workspace](computer-and-workspace.md) page for more info.
-* Read about the group's [expectations](../group-policies/group-expectations/) and [policies](/broken/pages/5XlPPuDAe1RE2YdIsBHH)
+* Read about the group's [expectations](../group-policies/group-expectations/) and [policies](https://app.gitbook.com/s/chaTK1GWZPVMLpFcO9Th/group-policies)
 * Get a head start on recommendations from the [reading list](../research-resources/reading-list/)
 * The group's home department is the [Chemical Engineering Department](https://che.utexas.edu/), which has an extensive infrastructure of administrative support. You will want to know the staff who will be helping you throughout your journey here. Below listed are some of the relevant positions. For the most up-to-date contact info, see [staff listing](https://www.che.utexas.edu/people/staff)
   * Undergraduate Academic Advisor,  Academic Advising Coordinator
