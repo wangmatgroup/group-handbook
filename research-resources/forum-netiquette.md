@@ -2,13 +2,13 @@
 
 #### Proper "Netiquette" <a href="#id-1-computationalresources-proper-netiquette" id="id-1-computationalresources-proper-netiquette"></a>
 
-Much of our interactions with people within and outside the university is through email or virtually on zoom. With these changes in communication medium naturally emerges what constitutes as proper etiquette on the web or "netiquette".
+Much of our interactions with people within and outside the university is through email or virtually on zoom. With these changes in communication medium naturally emerges what constitutes proper etiquette on the web or "netiquette".
 
 **"Netiquette" on video conferences**
 
 More and more of research occurs through video conferencing. Below are tips for how to best present yourself in a virtual setting
 
-* Arrive early, especially if you are presenting in a room you are unfamiliar with. Technology hiccups will happen to you at least once in your career, a little buffer time to figure these out is useful to looking professional
+* Arrive early, especially if you are presenting in a room you are unfamiliar with. Technology hiccups will happen to you at least once in your career. A little buffer time to figure these out is useful to looking professional
 * Test your video, audio, and microphone
 * Make sure whether you need to be the host of the meeting
 * Eye contact with the camera not the screen will give the illusion you are making eye contact with the viewer

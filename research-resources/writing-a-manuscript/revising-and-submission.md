@@ -23,11 +23,11 @@ Near the end, we finalize which journal to submit and polish the submission mate
 
 ## Submission
 
-Once all co-authors and PIs agree a manuscript is ready to submit, the following are usualy required:
+Once all co-authors and PIs agree a manuscript is ready to submit, the following are usually required:
 
 * **Decide on a journal to submit:** Depending on the project and its scope/significance/intended audience, different journals will be appropriate. Look through your reference list to see where people submit to and discuss with Wennie. Some relevant journals are:
   * AIP: Physical Review B, Physical Review X, Physical Review Materials, Physical Review Letters, Journal of Applied Physics, APL Materials
-  * RSC: Journal of Materials Chemistry C, Faraday Discussions, RSC Advances, New Journal of Chemistry, PHysical Chemistry Chemical Physics
+  * RSC: Journal of Materials Chemistry C, Faraday Discussions, RSC Advances, New Journal of Chemistry, Physical Chemistry Chemical Physics
   * ACS: JACS, ACS Energy Letters, ACS Applied Materials & Interfaces, Chemistry of Materials, ACS Catalysis, Journal of Chemical Theory and Computation, Journal of Physical Chemistry Letters
   * Nature: Nature Communications, Nature Computation, Nature Energy, npj Computational Materials
   * Wiley: Advanced Materials, Advanced Energy, Materials, Angewandte Chemie, physica status solidi (b)
