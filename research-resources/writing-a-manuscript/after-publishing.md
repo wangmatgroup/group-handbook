@@ -5,7 +5,7 @@ Your paper is published!
 Now that your paper is published, there are a few housekeeping things to do in the final wrap up.
 
 1. Notify all co-authors that the paper is published.
-2. Finalize organizing any files, updating data curation, updating arXiV or public repository drafts.
+2. Finalize organizing any files, updating data curation, updating arXiv or public repository drafts.
 3. Send the following to Wennie:
 
 * Submission information, letter to the editor, reviewers requested.

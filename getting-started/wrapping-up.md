@@ -22,5 +22,5 @@ description: A checklist of items when leaving the group.
   * Repository drafts are up-to-date
   * Data and metadata are deposited on the group repository on TACC (location in [group accounts](https://utexas.box.com/s/217scejibg75iq5k05uocjtuqsa8rrvi))
   * Discuss with PI if a continued university affiliation would make sense
-* Update your profile on thepermanent group website
+* Update your profile on the permanent group website
 

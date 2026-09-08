@@ -4,7 +4,7 @@ Communication is key!
 
 There are many mechanisms for keeping in communication with the group:
 
-* Get access to the group shared Box folder. Inside this folder are things such as the group roster, group accounts info, and gorup meeting schedule. Send your UT EID to Wennie to be added to the group shared Box folder. Wennie will make a shared Box folder individually with you- this folder will be used to exchange files and keep track of your research progress.
+* Get access to the group shared Box folder. Inside this folder are things such as the group roster, group accounts info, and group meeting schedule. Send your UT EID to Wennie to be added to the group shared Box folder. Wennie will make a shared Box folder individually with you- this folder will be used to exchange files and keep track of your research progress.
 * Join the [group mailing list ](https://utlists.utexas.edu/sympa)(search for [wangmatgroup@utlists.utexas.edu](mailto:wangmatgroup@utlists.utexas.edu)): send e.g., major announcements here or forward interesting articles/events; say hello to everyone and introduce yourself
 * Create a Slack account and join the group Slack using the invite code in the [Group Accounts spreadsheet](https://utexas.box.com/s/217scejibg75iq5k05uocjtuqsa8rrvi) (group members only); say hello to everyone.
   * **Group-related announcements and updates are posted on the Slack, so be sure to join!**

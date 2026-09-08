@@ -4,7 +4,7 @@ description: A collection of various tutorials of interest
 
 # Tutorials
 
-## General T**utorials**
+## **General Tutorials**
 
 * Learning Linux commands
   * Ubuntu's version for basic  commands: [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)

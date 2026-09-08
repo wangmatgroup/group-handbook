@@ -185,7 +185,7 @@ Pseudo Dojo: [http://www.pseudo-dojo.org/](http://www.pseudo-dojo.org/)
 
 Opium, a code to help generate pseudopotentials: [http://opium.sourceforge.net/](http://opium.sourceforge.net/)
 
-QE libary (and can also generate some pseudopotentials: [https://www.quantum-espresso.org/pseudopotentials/](https://www.quantum-espresso.org/pseudopotentials/)
+QE library (and can also generate some pseudopotentials: [https://www.quantum-espresso.org/pseudopotentials/](https://www.quantum-espresso.org/pseudopotentials/)
 
 ## Defects in Semiconductors
 
