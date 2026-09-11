@@ -2,16 +2,14 @@
 description: A collection of various tutorials of interest
 ---
 
-# Tutorials
+# Tutorials and Tips
 
 ## **General Tutorials**
 
 * Learning Linux commands
-  * Ubuntu's version for basic  commands: [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-  * &#x20;A guided, somewhat interactive tutorial: [https://linuxjourney.com/lesson/the-shell](https://linuxjourney.com/lesson/the-shell)
+  * Ubuntu's version for basic commands: [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+  * A guided, somewhat interactive tutorial: [https://linuxjourney.com/lesson/the-shell](https://linuxjourney.com/lesson/the-shell)
   * [http://linuxcommand.org/lc3\_learning\_the\_shell.php](http://linuxcommand.org/lc3_learning_the_shell.php)
-
-
 
 ## **Group Tutorials**
 
@@ -26,7 +24,7 @@ A collection of various tutorials held during group meetings
 * [STM and QuantumESPRESSO](https://github.com/wangmatgroup/tutorials/tree/main/QE-STM-postprocessing)
 * [Structure Manipulation](https://github.com/wangmatgroup/tutorials/tree/main/Structure-manipulation) with Jupyter notebooks, ASE, and pymatgen
 
-**General workflow and productivity tutorials**
+**Writing**
 
 * [Time management](https://github.com/wangmatgroup/tutorials/blob/main/time-management-20221130.pdf)
 * [Making Figures/images](https://github.com/wangmatgroup/tutorials/tree/main/Figure-making)
@@ -34,3 +32,5 @@ A collection of various tutorials held during group meetings
 * [Writing a paper](https://github.com/wangmatgroup/tutorials/blob/main/Writing-Papers/writing-papers-202309.pdf)
 * [Data and manuscript archival](https://github.com/wangmatgroup/tutorials/blob/main/Writing-Papers/data-archiving-202309.pdf)
 * Configuring your computer (coming soon)
+
+**General workflow and productivity tutorials**

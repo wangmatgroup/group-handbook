@@ -57,7 +57,8 @@
 ## HPC Resources
 
 * [Supercomputing Resources](hpc-resources/supercomputing-resources.md)
-* [Doing Computational Research](hpc-resources/doing-computational-research.md)
+* [Doing Computational Research](hpc-resources/doing-computational-research/README.md)
+  * [Small group collaboration](hpc-resources/doing-computational-research/small-group-collaboration.md)
 * [Software Resources](hpc-resources/software-resources.md)
 * [TACC resources](hpc-resources/tacc-resources.md)
 * [Inventory & Equipment](hpc-resources/inventory-and-equipment.md)
