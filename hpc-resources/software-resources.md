@@ -8,7 +8,7 @@ description: >-
 
 Particularly useful resources are marked with a \*\*.
 
-### Literature search  <a href="#c-researchresources-literaturesearchandreferencemanagement" id="c-researchresources-literaturesearchandreferencemanagement"></a>
+### Literature search <a href="#c-researchresources-literaturesearchandreferencemanagement" id="c-researchresources-literaturesearchandreferencemanagement"></a>
 
 * [The library](https://www.lib.utexas.edu/): sometimes (old) textbooks are the way to go!
 * [Google scholar](https://scholar.google.com/): the power of Google search but for journal articles, patents, and reviews
@@ -30,8 +30,8 @@ Particularly useful resources are marked with a \*\*.
 
 * [VASP](https://www.vasp.at/) (licensed): plane-wave DFT based on PAW pseudopotentials
 * [QuantumESPRESSO](https://www.quantum-espresso.org/): integrated suite of open-source codes based on plane-wave DFT and pseudopotentials
-* [Abinit](https://www.abinit.org/): software suite for plane-wave DFT; usually has very user friendly documentation- useful for a highlight of the theory and how it is implemented in code&#x20;
-* [PySCF](https://pyscf.org/): quantum chemistry package implemented using Python/C combined&#x20;
+* [Abinit](https://www.abinit.org/): software suite for plane-wave DFT; usually has very user friendly documentation- useful for a highlight of the theory and how it is implemented in code
+* [PySCF](https://pyscf.org/): quantum chemistry package implemented using Python/C combined
 * [Yambo](https://www.yambo-code.eu/): many-body perturbation theory methods (GW and BSE) and TD-DFT; frequently interfaced with QuantumESPRESSO and Abinit
 * [Wannier90](http://www.wannier.org/): generation and analysis of maximally-localized Wannier functions
 * [FHI aims](https://fhi-aims.org/): all-electron code based on numeric atom-centered orbitals
@@ -61,14 +61,19 @@ Particularly useful resources are marked with a \*\*.
 ### Text editors and word processors <a href="#c-researchresources-texteditorsandwordprocessors" id="c-researchresources-texteditorsandwordprocessors"></a>
 
 * \*\*[Vim](https://www.vim.org/), [emacs](https://www.gnu.org/software/emacs/) (emacs org), [nano](https://www.nano-editor.org/): terminal-based text editors
-* \*\*[LaTeX](https://www.latex-project.org/): a document preparation system with high-quality typesetting.&#x20;
+* \*\*[LaTeX](https://www.latex-project.org/): a document preparation system with high-quality typesetting.
 * [LibreOffice](https://www.libreoffice.org/) Write (and the rest of the office suite): word processor
 * [Lyx](https://www.lyx.org/): WYSIWYG document processor for LaTeX documents; useful for digitized homeworks!
 * [Pandoc](https://pandoc.org/): near universal document format converter
-* [Joplin](https://joplinapp.org/): take multimedia notes with markdown (images, videos, audio, pdfs, links)&#x20;
+* [Joplin](https://joplinapp.org/): take multimedia notes with markdown (images, videos, audio, pdfs, links)
 * [Sublime](https://www.sublimetext.com/): Text editor with syntax highlighting; handles LaTeX and various coding languages
 * [Pycharm](https://www.jetbrains.com/pycharm/): IDE for python
 * [Gitbook](https://www.gitbook.com/): publish documentation; integration with Github
+
+### Note taking <a href="#c-researchresources-makinggraphics-figures" id="c-researchresources-makinggraphics-figures"></a>
+
+* [Joplin](https://joplinapp.org/): open-source note-taking app based on markdown
+* [Obsidian](https://obsidian.md/): also a note-taking app based on markdown
 
 ### Making graphics/figures <a href="#c-researchresources-makinggraphics-figures" id="c-researchresources-makinggraphics-figures"></a>
 
@@ -76,7 +81,7 @@ Particularly useful resources are marked with a \*\*.
 * [TikZ](https://tikz.net/): make vector figures using LaTeX commands/scripts
 * [Asymptote](https://asymptote.sourceforge.io/): scriptable vector-graphics language; also compatible with TeX/LaTeX
 * [Inkscape](https://inkscape.org/): vector graphics editor
-* [Gimp](https://www.gimp.org/): image (bitmap) manipulation&#x20;
+* [Gimp](https://www.gimp.org/): image (bitmap) manipulation
 * [LaTeX Beamer: ](https://latex-beamer.com/quick-start/)make presentations in LaTeX
 * [Reveal.js](https://revealjs.com/): make HTML presentations with pretty transitions
 
